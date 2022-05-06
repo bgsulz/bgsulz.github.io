@@ -2,32 +2,30 @@
 
 // Define defaults for each variable.
 
-$base-font-family: "Jetbrains Mono", monospace, !default;
-$base-font-size:   16px !default;
+$base-font-family: "Jetbrains Mono", monospace,  !default;
+$base-font-size: 16px !default;
 $base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 0.875 !default;
+$small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$spacing-unit:     30px !default;
+$spacing-unit: 30px !default;
 
-$text-color:       #fdfdfd !default;
-$background-color: #111 !default;
-// $background-color: #ff0000 !default;
-$brand-color:      #2a7ae2 !default;
+$text-color: #aca6a0 !default;
+$background-color: #1e1c1a !default;
+$brand-color: #c9ad60 !default;
 
-$grey-color:       #222222 !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$background-color-dark: darken($background-color, 5%) !default;
+$background-color-light: lighten($background-color, 5%) !default;
 
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    900px !default;
+$content-width: 900px !default;
 
-$on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-palm: 600px !default;
+$on-laptop: 800px !default;
 
-$transition-time: 0.2s;
+$transition-time: 0.1s;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -47,8 +45,6 @@ $transition-time: 0.2s;
 }
 
 // Import partials.
-@import
-  "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
-;
+@import "minima/base",
+"minima/layout",
+"minima/syntax-highlighting";

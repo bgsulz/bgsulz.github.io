@@ -4,38 +4,39 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        
-        <div class="thumbnail-container">
-          
-          <a href="{{ post.url | relative_url }}" class="thumbnail-overlay">
-            <h3 class="post-link">
-              {{ post.title | escape }}
-            </h3>
-          </a>
+  <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
 
-          {%- if post.thumbnail -%}
-          <img src="{{ post.thumbnail }}" class="thumbnail"/>
-          {%- else -%}
-          <img src="assets/yellow.png" class="thumbnail"/> 
+      <div class="thumbnail-container rounded">
+
+        <a href="{{ post.url | relative_url }}" class="thumbnail-overlay">
+          <h3 class="post-link">
+            {{ post.title | escape }}
+          </h3>
+        </a>
+
+        {%- if post.thumbnail -%}
+        <img src="{{ post.thumbnail }}" class="thumbnail" />
+        {%- else -%}
+        <div class="thumbnail blank-thumbnail">
+          <!-- <img src="assets/yellow.png" class="thumbnail"/>  -->
           {%- endif -%}
 
         </div>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+        {{ post.excerpt }}
         {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+    </li>
+    {%- endfor -%}
+  </ul>
   {%- endif -%}
 
 </div>
