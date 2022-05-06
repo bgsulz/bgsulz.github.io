@@ -2,12 +2,20 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
+  // border-top: 5px solid $grey-color-dark;
+  // border-bottom: 1px solid $grey-color-light;
+  min-height: $spacing-unit * 2.6/* 1.865 */;
 
   // Positioning context for the mobile navigation icon
   position: relative;
+
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.navbar {
+  width: 100%;
 }
 
 .site-title {
@@ -191,6 +199,8 @@
 .post-list {
   margin-left: 0;
   list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
 
   > li {
     margin-bottom: $spacing-unit;
@@ -220,6 +230,8 @@
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
+  
+  text-align: center;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
