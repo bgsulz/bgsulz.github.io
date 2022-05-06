@@ -201,10 +201,11 @@
   list-style: none;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  grid-gap: 20px;
 
-  > li {
+  /* > li {
     margin-bottom: $spacing-unit;
-  }
+  } */
 }
 
 .post-meta {
@@ -215,8 +216,11 @@
 .post-link {
   display: block;
   @include relative-font-size(1.5);
+  position: absolute;
+  margin-bottom: 0;
+  text-align: center;
+  margin: 0 $spacing-unit
 }
-
 
 
 /**
