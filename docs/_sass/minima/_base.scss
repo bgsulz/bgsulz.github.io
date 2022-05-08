@@ -242,7 +242,7 @@ blockquote {
   border-left: 4px solid $background-color-light;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
-  letter-spacing: -1px;
+  // letter-spacing: -1px;
   font-style: italic;
 
   > :last-child {
@@ -369,7 +369,7 @@ table {
 }
 
 /*
- * Scroll bar
+ * Scroll bar and highlight
  */
 
 ::-webkit-scrollbar {
@@ -387,4 +387,13 @@ table {
 
 ::-webkit-scrollbar-thumb:hover {
   background: darken($text-color, 15%);
+}
+
+::selection {
+  background: $brand-color;
+  color: $background-color
+}
+::-moz-selection {
+  background: $brand-color;
+  color: $background-color;
 }

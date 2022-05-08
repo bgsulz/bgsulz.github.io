@@ -2,18 +2,30 @@
  * Site header
  */
 .site-header {
-  min-height: $spacing-unit * 3;
-
-  // Positioning context for the mobile navigation icon
-  position: relative;
-
-  display: flex;
-  align-items: center;
+  position: fixed;
   width: 100%;
+  height: ($spacing-unit * 2);
+  margin: $spacing-unit 0;
+  z-index: 3;
+  // border: 1px solid red;
+}
+
+.navbar-outer {
+  width: 100%;
+  height: 100%;
+  // border: 1px solid white; 
 }
 
 .navbar {
-  width: 100%;
+  background: $background-color-light;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px transparentize($background-color-dark, 0.5);
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 ($spacing-unit*0.75);
+  // border: 1px solid yellowgreen;
 }
 
 .site-title {
@@ -24,14 +36,13 @@
 
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
-  margin-bottom: 0;
+  // letter-spacing: -1px;
   float: left;
 }
 
 .site-nav {
   float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  // line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
     display: none;
@@ -43,7 +54,7 @@
 
   .page-link {
     color: $text-color;
-    line-height: $base-line-height;
+    // line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -183,7 +194,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  margin-top: ($spacing-unit*3);
   flex: 1;
 }
 
@@ -196,11 +207,12 @@
 }
 
 .post-list {
-  margin-left: 0;
+  padding-top: ($spacing-unit/2);
+  margin: 0;
   list-style: none;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
-  grid-gap: 20px;
+  grid-gap: ($spacing-unit/2);
 }
 
 .post-meta {
@@ -223,12 +235,12 @@
  * Posts
  */
 .post-header {
-  margin-bottom: $spacing-unit;
+  margin: ($spacing-unit/2) 0 $spacing-unit 0;
 }
 
 .post-title {
   @include relative-font-size(2.625);
-  letter-spacing: -1px;
+  // letter-spacing: -1px;
   line-height: 1;
 
   text-align: center;
