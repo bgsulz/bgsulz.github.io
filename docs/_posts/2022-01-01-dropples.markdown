@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Dropples"
+date:   2022-01-01 00:00:00 -0400
+categories: 
+thumbnail: "/assets/heros/Dropples.png"
+---
+_Dropples_ is a virtual board game for two players. Compete with a friend in local multiplayer strategy.
+
+The rules are simple: 
+- On each player's turn, they must perform two actions. 
+- An action is: moving a piece, building a block next to a piece, or pushing a block next to a piece.
+- Pieces can be eliminated when pushed off the edge or crushed with a block. Eliminate your opponent's pieces.
+
+Between the easy-to-grasp ruleset and close-quartered playfield, games are brisk and light.
+
+I developed _Dropples_ in Unity based on a prototype made in Processing (Java.)

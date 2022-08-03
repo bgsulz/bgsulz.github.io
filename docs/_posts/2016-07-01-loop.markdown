@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "The Loop"
+subtitle: "Instrumental mini-album"
+date:   2016-07-01 00:00:00 -0400
+categories: 
+thumbnail: "/assets/heros/Loop.png"
+---
+_The Loop_ is my first album, a youthful ode to my first 16 years.
+
+@row
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/252482685&color=%23d87468&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe>
+@column
+These gapless twenty-three minutes of instrumental music were created bit by bit over the course of a year -- August 2015 to 2016. Besides the supremely talented musicians credited below, I performed all parts on the album, as well as its composition, arrangement, recording, and mixing.
+
+@row
+## Credits:
+
+_*The Loop*_
+an album by Ben Sulzinsky
+
+*Writing*
+Ben Sulzinsky
+
+*Performance*
+Ben Sulzinsky
+Dave Savitsky
+Jamie Finegan
+Brian Almeida
+Sofia Chiarandini
+Rob Thorne
+
+*Production and Mixing*
+Ben Sulzinsky
+Rob Thorne
+
+*Mastering*
+Dietrich Schoenemann
+_Complete Mastering_
+
+*Recorded at*
+Angel Thorne Studios
+_Bethel, CT_
+
+*Special Thanks*
+Lora and Eugene Wishod
+Karen, Jack, and Sam Sulzinsky
+
+1. *Intro* (2:31)
+Piano: Ben Sulzinsky
+
+2. *New Shoes* (2:55)
+Saxophone: Dave Savitsky
+
+3. *Sequins* (3:54)
+Piano: Ben Sulzinsky
+Trumpet: Jamie Finegan
+Clarinet: Dave Savitsky
+Percussion: Brian Almeida
+
+4. *Fever Dream* (5:12)
+Violin: Sofia Chiarandini
+Percussion: Brian Almeida
+
+5. *Marigold (Interlude)* (3:02)
+Piano: Ben Sulzinsky
+Trumpet: Jamie Finegan
+Saxophone: Dave Savitsky
+
+6. *The Loop* (4:22)
+Violin: Sofia Chiarandini
+Guitar: Rob Thorne
+
+7. *Outro* (1:16)
+Piano: Ben Sulzinsky

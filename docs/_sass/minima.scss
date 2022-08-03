@@ -3,16 +3,16 @@
 // Define defaults for each variable.
 
 $base-font-family: 'Atkinson Hyperlegible', Helvetica, sans-serif, !default;//"Jetbrains Mono", monospace,  !default;
-$base-font-size: 16px !default;
+$base-font-size: 18px !default;
 $base-font-weight: 400 !default;
 $small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit: 30px !default;
 
-$text-color: #aca6a0 !default;
-$background-color: #1e1c1a !default;
-$brand-color: #c9ad60 !default;
+$text-color: #cacaca !default;
+$background-color: #1e1e1e !default;
+$brand-color: #ffc831 !default;
 
 $background-color-dark: darken($background-color, 5%) !default;
 $background-color-light: lighten($background-color, 5%) !default;

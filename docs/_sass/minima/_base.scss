@@ -88,6 +88,16 @@ img {
   vertical-align: middle;
 }
 
+img,
+.rounded {
+  border-radius: 5px;
+}
+
+.raised {
+  border-radius: 5px;
+  box-shadow: 0 5px 10px transparentize($background-color-dark, 0.5);
+}
+
 .thumbnail {
   position: absolute;
   width: 100%;
@@ -97,10 +107,6 @@ img {
 
 .blank-thumbnail {
   background: $brand-color;
-}
-
-.rounded {
-  border-radius: 5px;
 }
 
 .thumbnail-container {
@@ -393,6 +399,7 @@ table {
   background: $brand-color;
   color: $background-color
 }
+
 ::-moz-selection {
   background: $brand-color;
   color: $background-color;

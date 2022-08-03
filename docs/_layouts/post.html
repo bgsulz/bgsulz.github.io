@@ -15,10 +15,15 @@ layout: default
   <header class="post-header">
 
     {%- if page.thumbnail -%}
-    <img src="{{ page.thumbnail }}" class="rounded thumbnail-featured" />
+      <img src="{{ page.thumbnail }}" class="thumbnail-featured" />
     {%- endif -%}
 
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <div class="post-heading-block raised">
+      <h1 class="post-heading post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+      {%- if page.subtitle -%}
+        <h3 class="post-heading post-subtitle" itemprop="name headline">{{ page.subtitle | escape }}</h3>
+      {%- endif -%}
+    </div>
     <!-- <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -30,12 +35,36 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+    <!-- {{- content -}} -->
+    {%- assign rows = content | split:"@row" -%}
+      {%- for row in rows -%}
+      {%- if row contains "-nospace" -%}
+        {%- assign row = row | replace:'-nospace', '' -%}
+        <div class="row row-nospace" id="row-{{- forloop.index -}}">
+      {%- else -%}
+        <div class="row row-space" id="row-{{- forloop.index -}}">
+      {%- endif -%}
+          {%- assign columns = row | split:"@column" -%}
+          {%- for column in columns -%}
+            <div class="col-sm-{{- 12 | divided_by:forloop.length -}}">
+              <!-- {{- column -}} -->
+              {%- assign paragraphs = column | newline_to_br | split: '<br />' -%}
+              {%- for paragraph in paragraphs -%}
+              {%- assign paragraph_words = paragraph | strip | strip_newlines | number_of_words -%}
+                {%- if paragraph and paragraph != "" and paragraph != " " and paragraph_words > 1 -%}
+                  <p>{{- paragraph | strip -}}</p>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {%- endfor -%}
+
+        </div>
+      {%- endfor -%}
   </div>
 
-  {%- if site.disqus.shortname -%}
+  <!-- {%- if site.disqus.shortname -%}
   {%- include disqus_comments.html -%}
-  {%- endif -%}
+  {%- endif -%} -->
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

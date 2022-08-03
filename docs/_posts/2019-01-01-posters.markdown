@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Wesleyan University Posters"
+date:   2019-01-01 00:00:00 -0400
+categories: 
+thumbnail: "/assets/heros/Posters Hero.png"
+---
+I am a student of the class of 2023 at Wesleyan University. During my time at college, I've decorated the campus with original posters for a variety of jobs and student projects. A selection of those projects follows.
+
+@row
+## Office of Communications Design Assistant
+
+During my freshman and sophomore years, I spent my work-study hours as a Student Graphic Design Assistant at the Wesleyan Office of Communications. As part of my job, I was tasked with designing event posters for upcoming lectures and symposiums. I had a great time exploring the flexibility of the Wesleyan design guidelines throughout their radical rebranding process.
+
+@row-nospace
+[![True Confessions](/assets/posters/Brexit.png)](/assets/posters/Brexit.png){:target="_blank"}
+@column
+[![Missed Connections](/assets/posters/Missed Connections.png)](/assets/posters/Missed Connections.png){:target="_blank"}
+@column
+[![Decolonizing Oral Histories](/assets/posters/Decolonizing.png)](/assets/posters/Decolonizing.png){:target="_blank"}
+@row
+[![Enmeshment](/assets/posters/Enmeshment.png)](/assets/posters/Enmeshment.png){:target="_blank"}
+@column
+[![Life on the God Beat](/assets/posters/God Beat.png)](/assets/posters/God Beat.png){:target="_blank"}
+@column
+[![Disconnecting the -Phone](/assets/posters/Phone.png)](/assets/posters/Phone.png){:target="_blank"}
+
+@row
+## Game Lab
+
+I lead the on-campus club **Game Lab**, Welseyan's only game design and development club. We focus on short-form game design exercises and challenges, teaching the fundamental skills and principles needed to create effective play. We also host an anything-goes 24-hour game jam every semester!
+
+@row
+[![Jam 1](/assets/posters/Jam 1.png)](/assets/posters/Jam 1.png){:target="_blank"}
+@column
+[![Jam 2](/assets/posters/Jam 2.png)](/assets/posters/Jam 2.png){:target="_blank"}
+@column
+[![Make Your Escape](/assets/posters/Escape.png)](/assets/posters/Escape.png){:target="_blank"}
+
+@row
+## Student Theater Projects
+
+In addition to my sound design and mixing roles for on-campus theater projects, student directors have reached out to me for promotional materials. I work with each director to understand their interpretation of the text to ensure that my posters are accurate and evocative previews of their production.
+
+@row
+[![Uproar](/assets/posters/Uproar.png)](/assets/posters/Uproar.png){:target="_blank"}
+@column
+[![Bare Auditions](/assets/posters/Bare Auditions.png)](/assets/posters/Bare Auditions.png){:target="_blank"}
+@column
+[![Bare](/assets/posters/Bare.png)](/assets/posters/Bare.png){:target="_blank"}
