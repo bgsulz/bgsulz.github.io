@@ -12,4 +12,5 @@ _!_ is a collection of five revitalized experiments created after _The Loop._ Th
 @column
 I wrote, arranged, recorded, mixed, and mastered all music in this collection using Logic Pro as my DAW. The tracks range in style from arpeggiating, video-gamey themes to snappy, saxophone-driven instrumental pop. Though thoroughly simple and accessible, the music is difficult to categorize.
 
+
 The fifth installment...didn't turn out so well. Hence the gap between IV and VI.

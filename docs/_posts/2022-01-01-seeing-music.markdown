@@ -12,6 +12,6 @@ The collection visually represents the anatomy of music equipment, the acts of m
 I split my Concentration into thirds, exploring three spheres of music: the instruments and technology behind music, creating and listening to music, and the industry surrounding the music. I still sought variety within each sphere, from piracy to spectrograms,
 earbuds to piano keys.
 
-***
+## Final Poster
 
 My AP Art class placed me in charge of making a poster to advertise our exhibition with the prompt of "movie poster." I settled on a humorous approach, drawing inspiration from the cosmic horror genre to depict the impending date of the event in a foreboding light.

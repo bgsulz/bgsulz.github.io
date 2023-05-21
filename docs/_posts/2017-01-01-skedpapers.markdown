@@ -23,6 +23,7 @@ A selection of Skedpapers is below.
 ![Flowers](/assets/skedpapers/Flowerpaper.png)
 @column
 ![Pastel](/assets/skedpapers/Pastelpaper.png)
+
 @row
 ![Space](/assets/skedpapers/Spacepaper.png)
 @column

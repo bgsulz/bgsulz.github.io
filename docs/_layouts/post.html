@@ -39,22 +39,24 @@ layout: default
     {%- assign rows = content | split:"@row" -%}
       {%- for row in rows -%}
       {%- if row contains "-nospace" -%}
-        {%- assign row = row | replace:'-nospace', '' -%}
+        {%- assign row = row | replace:"-nospace", "" -%}
         <div class="row row-nospace" id="row-{{- forloop.index -}}">
       {%- else -%}
         <div class="row row-space" id="row-{{- forloop.index -}}">
       {%- endif -%}
+
           {%- assign columns = row | split:"@column" -%}
           {%- for column in columns -%}
             <div class="col-sm-{{- 12 | divided_by:forloop.length -}}">
-              <!-- {{- column -}} -->
-              {%- assign paragraphs = column | newline_to_br | split: '<br />' -%}
+              <p>{{- column | replace:"-nospace", "" -}}</p>
+              <!-- {%- assign paragraphs = column | replace:"-nospace", "" | split:"
+"-%}
               {%- for paragraph in paragraphs -%}
-              {%- assign paragraph_words = paragraph | strip | strip_newlines | number_of_words -%}
-                {%- if paragraph and paragraph != "" and paragraph != " " and paragraph_words > 1 -%}
+              {%- assign paragraph_words = paragraph | strip | strip_newlines | strip | number_of_words -%}
+                {%- if paragraph and paragraph != "" and paragraph != " " and paragraph_words > 0 -%}
                   <p>{{- paragraph | strip -}}</p>
                 {% endif %}
-              {% endfor %}
+              {% endfor %} -->
             </div>
           {%- endfor -%}
 
