@@ -17,6 +17,6 @@ The game's art had to be similarly modular. I built a large and comprehensive le
 Even the decorative houses are fully modular.
 
 @row-nospace
-[![Modular Roads](/assets/twelvetosix/Modular%20Roads.png)](/assets/twelvetosix/Modular%20Roads.png){:target="_blank"}
+![Modular Roads](/assets/twelvetosix/Modular%20Roads.png)
 @column
-[![Modular Houses](/assets/twelvetosix/Modular%20Houses.png)](/assets/twelvetosix/Modular%20Houses.png){:target="_blank"}
+![Modular Houses](/assets/twelvetosix/Modular%20Houses.png)
