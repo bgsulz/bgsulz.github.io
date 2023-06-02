@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vote Line A"
-date:   2022-01-01 00:00:00 -0400
+date:   2021-09-01 00:00:00 -0400
 categories: 
 thumbnail: "/assets/heros/Vote Line A.png"
 ---

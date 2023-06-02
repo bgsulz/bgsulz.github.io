@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Dropples"
-date:   2022-01-01 00:00:00 -0400
+date:   2020-08-08 00:00:00 -0400
 categories: 
 thumbnail: "/assets/heros/Dropples.png"
 ---
 _Dropples_ is a virtual board game for two players. Compete with a friend in local multiplayer strategy.
+
+[Play on itch.io](https://bgsulz.itch.io/dropples){: .btn}
 
 The rules are simple: 
 - On each player's turn, they must perform two actions. 

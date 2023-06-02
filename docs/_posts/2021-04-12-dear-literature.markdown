@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dear Literature Theme Music"
-date:   2022-01-01 00:00:00 -0400
+date:   2021-04-12 00:00:00 -0400
 categories: 
 thumbnail: "/assets/heros/Dear Literature.png"
 ---
@@ -11,4 +11,4 @@ I composed the themes and interstitial music for the Dear Literature podcast, a 
 @column 
 The podcast hosts instructed me to evoke charming fantasy–cozy cottages, toadstool fields, and so on. I accomplished this with warm, shifting harmony bound together by sticky bassoon and string melodies.
 
-All instruments are digital and in-the-box, as neither time nor budget permitted me to record live instrumentalists. Instead, this music is demonstrates my ability to work in challenging styles, even when limited by the equipment available.
+All instruments are sampled or synthesized, as neither time nor budget permitted me to record live performances. Instead, this music demonstrates my ability to quickly compose and produce in-the-box in non-electronic styles.
