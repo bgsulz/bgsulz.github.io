@@ -16,4 +16,7 @@ The rules are simple:
 
 Between the easy-to-grasp ruleset and close-quartered playfield, games are brisk and light.
 
-I developed _Dropples_ in Unity based on a prototype made in Processing (Java.)
+@row
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1640345191&color=%236c6c73&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+@column
+I developed _Dropples_ in Unity based on a prototype made in Processing (Java.) It features a brief passage of original music, which you can listen to here.
