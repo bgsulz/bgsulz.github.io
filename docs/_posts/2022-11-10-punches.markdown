@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Roll with the Punches"
+date:   2022-11-10 00:00:00 -0400
+categories: 
+thumbnail: "/assets/heros/Punches.png"
+tag: andr
+---
+For the 2022 GMTK Game Jam -- theme "Roll of the Dice" -- our team created Roll with the Punches, a two-part game where you strategically assemble a training regimen from dice rolls and then test your skills in a high-stakes prizefight. I handled all art and some programming on a team of two developers and one musician.
+
+[Play on itch.io](https://gardosj.itch.io/roll-with-the-punches){: .btn}
+
+Expanding on the cartoony art style I created for [Pesadilla Hotel,](https://robertbuckley.itch.io/pesadilla-hotel) I pared back hair and facial features to focus on creating a modular, animatable body. 
+
+As training modifies each body part (and stat) individually, the game combines art assets based on training results to form a skeletal rig at runtime.
+
+![Modular Body Parts](/assets/punches/Body%20Parts.png)
+
+Each of the prizefight's ten animations -- a kick, punch, and guard each for high, middle, and low stances, plus a huge ragdoll when knocked out -- maps automatically regardless of the composition of the player's body. A buff chest with tiny arms; a squat torso with long legs; a gumball with massive biceps -- it all works.
+
+Building upon this system, I also handled the underlying system that manages game state, as well as the simple, weighty fighting mechanics for the prizefight. Shaders were my duty, too: I adapted and improved my squigglevision post-processing effect from our game [c.a.l.e.b.](https://robertbuckley.itch.io/caleb) to drive home the old-school cartoon effect.
+
+Among more than 6,000 entries, the game was ranked in the 92nd percentile overall.

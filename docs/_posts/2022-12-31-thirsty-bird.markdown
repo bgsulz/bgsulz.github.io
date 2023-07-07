@@ -8,9 +8,9 @@ tag: andr
 ---
 Thirsty Bird is a tiny rhythm game about a symbiotic dance between the raindrops.
 
-It is a work in progress with an expected release date of late 2023.
-
 [Play demo on itch.io](https://bgsulz.itch.io/bird){: .btn}
+
+It is a work in progress with an expected release date of late 2023.
 
 @row
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1640341378&color=%236c6c73&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
