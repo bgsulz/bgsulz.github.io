@@ -3,16 +3,31 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
+  <!-- {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  {%- endif -%} -->
 
+  {%- if content -%}
+  <div class="spacer"></div>
   {{ content }}
+  {%- endif -%}
 
   {%- if site.posts.size > 0 -%}
   <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
+
   <ul class="post-list">
     {%- for post in site.posts -%}
+    {% assign should_show = false %}
+
+    {%- unless page.onlytag -%}
+      {% assign should_show = true %}
+    {%- endunless -%}
+
+    {%- if page.onlytag and post.tag contains page.onlytag -%}
+      {% assign should_show = true %}
+    {%- endif -%}
+
+    {%- if should_show == true -%}
     <li>
 
       <div class="thumbnail-container rounded">
@@ -35,6 +50,7 @@ layout: default
         {{ post.excerpt }}
         {%- endif -%}
     </li>
+    {%- endif -%}
     {%- endfor -%}
   </ul>
   {%- endif -%}

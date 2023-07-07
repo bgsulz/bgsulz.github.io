@@ -4,6 +4,7 @@ title:  "Thirsty Bird"
 date:   2022-12-31 00:00:00 -0400
 categories: 
 thumbnail: "/assets/heros/Bird.png"
+tag: andr
 ---
 Thirsty Bird is a tiny rhythm game about a symbiotic dance between the raindrops.
 
