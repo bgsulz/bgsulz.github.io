@@ -14,6 +14,7 @@ This was my first project with the Unity game engine. I wrote a 2D character con
 
 @row
 As supporting artist, I was in charge of generating animals, plants, and resources in the game's splotchy watercolor style. I created the vast majority of the non-player art using Affinity Designer.
+
 @row-nospace
 ![Rosy Misc Art](/assets/rosy/Rosy%20Misc.png)
 @column
@@ -22,7 +23,7 @@ As supporting artist, I was in charge of generating animals, plants, and resourc
 @row
 ![Rosy Opening Stage](/assets/rosy/Rosy%20Dirt.png)
 
-@row-nospace
+@row
 This included a wide variety of modular tilesets that allowed for rapid iteration of level designs.
 ![Rosy Tilesets](/assets/rosy/Rosy%20Tiles.png)
 @row

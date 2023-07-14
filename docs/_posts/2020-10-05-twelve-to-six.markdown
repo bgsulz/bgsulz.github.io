@@ -19,9 +19,10 @@ The game's art had to be similarly modular. I built a large and comprehensive le
 
 Even the decorative houses are fully modular.
 
-@row-nospace
+@row
 ![Modular Roads](/assets/twelvetosix/Modular%20Roads.png)
 @column
 ![Modular Houses](/assets/twelvetosix/Modular%20Houses.png)
 
+@row
 The game was ranked 48th overall, placing it in the top 2% of submissions.

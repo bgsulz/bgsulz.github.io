@@ -26,7 +26,7 @@ Below, find selected pages from a handful of editions. The June 2017 issue was c
 @row
 #### November 2017
 
-@row
+@row-nospace
 [![November 2017](/assets/ridgefielder/Nov2017_0.png)](/assets/ridgefielder/Nov2017_0.png){:target="_blank"}
 @column
 [![November 2017](/assets/ridgefielder/Nov2017_1.png)](/assets/ridgefielder/Nov2017_1.png){:target="_blank"}
@@ -48,7 +48,7 @@ Below, find selected pages from a handful of editions. The June 2017 issue was c
 @row
 #### June 2018
 
-@row
+@row-nospace
 [![June 2018](/assets/ridgefielder/June2018_0.png)](/assets/ridgefielder/June2018_0.png){:target="_blank"}
 @column
 [![June 2018](/assets/ridgefielder/June2018_1.png)](/assets/ridgefielder/June2018_1.png){:target="_blank"}
