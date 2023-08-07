@@ -231,6 +231,11 @@
 /**
  * Posts
  */
+
+// .post-content {
+//   padding: 0 ($spacing-unit*0.75);
+// }
+
 .post-header {
   margin: ($spacing-unit/2) 0 $spacing-unit 0;
 }
@@ -262,6 +267,7 @@
   margin-bottom: $spacing-unit;
 
   h2 {
+    margin-top: $spacing-unit;
     @include relative-font-size(2);
 
     @include media-query($on-laptop) {
@@ -270,6 +276,7 @@
   }
 
   h3 {
+    margin-top: $spacing-unit;
     @include relative-font-size(1.625);
 
     @include media-query($on-laptop) {
@@ -278,6 +285,7 @@
   }
 
   h4 {
+    margin-top: $spacing-unit;
     @include relative-font-size(1.25);
 
     @include media-query($on-laptop) {

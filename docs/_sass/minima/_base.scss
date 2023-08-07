@@ -205,11 +205,16 @@ li {
  */
 h1,
 h2,
-h3,
+h3 {
+  font-weight: $base-font-weight;
+}
+
 h4,
 h5,
 h6 {
-  font-weight: $base-font-weight;
+  text-transform: uppercase;
+  font-weight: $bold-font-weight;
+  letter-spacing: 0.2rem;
 }
 
 
