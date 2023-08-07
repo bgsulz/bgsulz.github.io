@@ -4,7 +4,7 @@ title:  "Roll with the Punches"
 date:   2022-11-10 00:00:00 -0400
 categories: 
 thumbnail: "/assets/heros/Punches.png"
-tag: andr
+tag: [andr, uma]
 ---
 For the 2022 GMTK Game Jam -- theme "Roll of the Dice" -- our team created Roll with the Punches, a two-part game where you strategically assemble a training regimen from dice rolls and then test your skills in a high-stakes prizefight. I handled all art and some programming on a team of two developers and one musician.
 
