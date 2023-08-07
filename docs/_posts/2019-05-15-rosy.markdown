@@ -4,7 +4,7 @@ title:  "Rosy Ruins"
 date:   2019-05-15 00:00:00 -0400
 categories: 
 thumbnail: "/assets/heros/Rosy.png"
-tag: andr
+tag: [andr, uma]
 ---
 Rosy Ruins is my final project for Prof. Christopher Weaver's class IDEA350 (Computational Media: Videogame Development) at Wesleyan University. I completed the class during the spring semester of my freshman year in 2019, and took on the role of producer, lead programmer, and supporting artist. Our team included design lead Krzys Nizielski, art director Zach Turner, code supervisor Ahmed Ali, and business manager Salil Shah.
 
