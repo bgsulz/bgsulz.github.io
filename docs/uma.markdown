@@ -1,7 +1,7 @@
 ---
 layout: home
 hidden: true
-onlytag: uma
+onlytag: [games, unity]
 ---
 
 # Hello UMA!

@@ -23,8 +23,12 @@ layout: default
       {% assign should_show = true %}
     {%- endunless -%}
 
-    {%- if page.onlytag and post.tag contains page.onlytag -%}
+    {%- if page.onlytag -%} 
+    {%- for tag in page.onlytag -%}
+    {%- if post.tag contains tag -%}
       {% assign should_show = true %}
+    {%- endif -%}
+    {%- endfor -%}
     {%- endif -%}
 
     {%- if should_show == true -%}

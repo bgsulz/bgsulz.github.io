@@ -1,7 +1,7 @@
 ---
 layout: home
 hidden: true
-onlytag: andr
+onlytag: [games]
 ---
 
 # Hello Andromeda!
