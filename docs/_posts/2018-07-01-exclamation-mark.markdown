@@ -4,6 +4,7 @@ title:  "!"
 date:   2018-07-01 00:00:00 -0400
 categories: 
 thumbnail: "/assets/heros/Exclamation Mark.png"
+tag: [music]
 ---
 _!_ is a collection of five revitalized experiments created after _The Loop._ They were released weekly during the summer of 2018.
 

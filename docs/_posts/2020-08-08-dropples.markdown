@@ -4,7 +4,7 @@ title:  "Dropples"
 date:   2020-08-08 00:00:00 -0400
 categories: 
 thumbnail: "/assets/heros/Dropples.png"
-tag: [andr, uma]
+tag: [andr, uma, music]
 ---
 _Dropples_ is a virtual board game for two players. Compete with a friend in local multiplayer strategy.
 
