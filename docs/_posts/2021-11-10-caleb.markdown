@@ -23,4 +23,4 @@ With a weekend to program, I simplified the design and mechanics of c.a.l.e.b., 
 @row
 To augment the minimal visuals, I paired the game's crunchy lo-res rendering with a flipbook-style squigglevision postprocessing effect. In conjunction with its lax approach to puzzle-solving, the game's visual style is scrappy and loose.
 
-The game placed in the top quarter of submissions.
+The game placed in the top 5% of submissions.
