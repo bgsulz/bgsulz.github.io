@@ -301,7 +301,8 @@
   height: calc(100% - 15px);
   display: flex;
   align-items: flex-start;
-  padding: 0 30px;
+  padding: $spacing-unit;
+  box-sizing: border-box;
   flex-direction: column;
   justify-content: center;
 }
