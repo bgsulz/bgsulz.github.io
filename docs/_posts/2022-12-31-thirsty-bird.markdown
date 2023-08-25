@@ -15,7 +15,7 @@ It is a work in progress with an expected release date of late 2023.
 @row
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1640341378&color=%236c6c73&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 @column
-When released, Thirsty Bird will consist of five levels of original music. The style is jaunty and videogamey, featuring sampled instruments and hi-fi synths in blocky arrangements that complement the game's chunky pixel art. You can listen to the music for the two levels here.
+When released, Thirsty Bird will consist of five levels of original music. The style is jaunty and videogamey, featuring sampled instruments and hi-fi synths in blocky arrangements that complement the game's chunky pixel art. You can listen to the music for the first two levels here.
 
 @row
 Thirsty Bird will also support custom charts using a simple text syntax. No need for overcomplicated editors with cumbersome copy-pasting -- write charts as fast as you can type, and share them any way you'd like.

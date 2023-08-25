@@ -59,7 +59,7 @@ Wouldn't it be great to just write:
 public PropertyReference<float> floatProp;
 ```
 
-You can! Just drop in your object and choose the propertt in the editor. Nested properties are supported! The "catch" is that you need to initialize the object before using it:
+You can! Just drop in your object and choose the property in the editor. Nested properties are supported! The "catch" is that you need to initialize the object before using it:
 
 ```cs
 void Start()
