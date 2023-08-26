@@ -4,7 +4,7 @@ hidden: true
 onlytag: [unity, games]
 ---
 
-# Hello transfr!
+# Hello Transfr!
 
 Here are some selected Unity projects of mine. You might recognize some of the titles from my resume. 
 
