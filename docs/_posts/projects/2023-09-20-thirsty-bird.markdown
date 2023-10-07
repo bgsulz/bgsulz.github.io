@@ -4,6 +4,7 @@ title:  "Thirsty Bird"
 subtitle: "Tricky, offbeat rhythm game"
 thumbnail: "/assets/heros/Bird.png"
 tags: [project, games, unity, music]
+permalink: /bird/
 ---
 Thirsty Bird is a tiny rhythm game about a symbiotic dance between the raindrops. Use your computer's keyboard to position the bird under the falling raindrops, and feel the rhythm of the skies to help your timing.
 
