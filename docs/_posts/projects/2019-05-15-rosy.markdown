@@ -24,6 +24,7 @@ As supporting artist, I was in charge of generating animals, plants, and resourc
 
 @row
 This included a wide variety of modular tilesets that allowed for rapid iteration of level designs.
+
 ![Rosy Tilesets](/assets/rosy/Rosy%20Tiles.png)
 @row
 ![Rosy Ice Stage](/assets/rosy/Rosy%20Ice.png)

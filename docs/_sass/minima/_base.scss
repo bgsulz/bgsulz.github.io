@@ -153,7 +153,7 @@ p:has(.btn:hover) {
 .btn {
   text-decoration: none;
   font-weight: 700;
-  border: 3px solid $brand-color;
+  border: $border-width solid $brand-color;
   background-color: $background-color-light;
   color: $brand-color;
   padding: 15px;
@@ -170,7 +170,7 @@ p:has(.btn:hover) {
 
 blockquote {
   color: $text-color;
-  border: 1px solid $background-color-dark;
+  border: $border-width solid $background-color-dark;
   background: $background-color-light;
   border-radius: $corner-radius;
   padding: $spacing-unit / 2;
@@ -186,10 +186,10 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
-  border: 1px solid $background-color-dark;
-  border-radius: $corner-radius;
+  //border: $border-width solid $background-color-dark;
+  //border-radius: $corner-radius;
   overflow: hidden;
-  background-color: $background-color-dark;
+  //background-color: $background-color-dark;
 }
 
 code {
@@ -197,7 +197,7 @@ code {
 }
 
 pre {
-  padding: 8px 12px;
+  padding: $spacing-unit $spacing-unit;
   overflow-x: auto;
 
   > code {
@@ -242,7 +242,7 @@ table {
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
   border-collapse: collapse;
-  border: 1px solid $background-color-light;
+  border: $border-width solid $background-color-light;
 
   tr {
     &:nth-child(even) {
@@ -257,12 +257,12 @@ table {
 
   th {
     background-color: lighten($background-color-light, 3%);
-    border: 1px solid darken($background-color-light, 4%);
+    border: $border-width solid darken($background-color-light, 4%);
     border-bottom-color: darken($background-color-light, 12%);
   }
 
   td {
-    border: 1px solid $background-color-light;
+    border: $border-width solid $background-color-light;
   }
 }
 

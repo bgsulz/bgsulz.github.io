@@ -238,7 +238,7 @@
   }
 
   &:hover {
-    outline: 3px solid $text-color;
+    outline: $border-width solid $text-color;
     box-shadow: 0 10px 35px transparentize($text-color, 0.7);
     transform: scale(1.02) translateY(-1.5%);
     z-index: 2;
@@ -306,7 +306,7 @@
 .post-heading-block {
   //background: $background-color-dark;
   padding: ($spacing-unit * 0.875) ($spacing-unit * 0.875) ($spacing-unit * 0.725) ($spacing-unit * 0.875);
-  border: 2px solid $background-color-light;
+  border: $border-width solid $background-color-light;
   border-top-width: 0;
   border-radius: 0 0 $corner-radius $corner-radius;
 }
@@ -315,9 +315,10 @@
   margin-bottom: $spacing-unit;
 }
 
-.pbox {
-  background: darken($background-color-dark, 15%);
-  outline: 3px solid $background-color-light;
+.pbox,
+pre {
+  background: $background-color-dark;
+  outline: $border-width solid $background-color-light;
   border-radius: $corner-radius;
   height: calc(100% - 15px);
   display: flex;
