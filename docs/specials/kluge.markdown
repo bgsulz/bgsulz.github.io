@@ -1,9 +1,10 @@
 ---
 layout: home
 hidden: true
-onlytag: [games, unity]
+onlytag: [unity, games]
+permalink: /kluge/
 ---
 
-# Hello UMA!
+# Hello Kluge Interactive!
 
 Here are some selected game projects of mine. You might recognize some of the titles from my resume. Please enjoy!

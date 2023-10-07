@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Wesleyan University Posters"
-date:   2019-01-01 00:00:00 -0400
-categories: 
+subtitle: "Campus event poster designs"
 thumbnail: "/assets/heros/Posters Hero.png"
+tags: [project]
 ---
 I am a student of the class of 2023 at Wesleyan University. During my time at college, I've decorated the campus with original posters for a variety of jobs and student projects. A selection of those projects follows.
 
@@ -28,7 +28,7 @@ During my freshman and sophomore years, I spent my work-study hours as a Student
 @row
 ## Game Lab
 
-I lead the on-campus club **Game Lab**, Welseyan's only game design and development club. We focus on short-form game design exercises and challenges, teaching the fundamental skills and principles needed to create effective play. We also host an anything-goes 24-hour game jam every semester!
+I lead the on-campus club **Game Lab**, Wesleyan's only game design and development club. We focus on short-form game design exercises and challenges, teaching the fundamental skills and principles needed to create effective play. We also host an anything-goes 24-hour game jam every semester!
 
 @row
 [![Jam 1](/assets/posters/Jam 1.png)](/assets/posters/Jam 1.png){:target="_blank"}

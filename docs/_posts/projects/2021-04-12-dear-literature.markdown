@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Dear Literature Theme Music"
-date:   2021-04-12 00:00:00 -0400
-categories: 
+subtitle: "Cozy, orchestral podcast theme"
 thumbnail: "/assets/heros/Dear Literature.png"
-tag: [music]
+tags: [project, music]
 ---
 I composed the themes and interstitial music for the Dear Literature podcast, a student-run book discussion show.
 @row

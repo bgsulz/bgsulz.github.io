@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Fluid Textures"
-date:   2020-05-01 00:00:00 -0400
-categories: 
+subtitle: "Wallpaper collection"
 thumbnail: "/assets/heros/Fluid.png"
+tags: [project]
 ---
 The below images began as splashes from various digital fluid simulations. I edited, framed, and decorated those initial textures using Affinity Designer.
 

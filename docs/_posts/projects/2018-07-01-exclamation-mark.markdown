@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "!"
-date:   2018-07-01 00:00:00 -0400
-categories: 
+subtitle: "Varied instrumental compilation"
 thumbnail: "/assets/heros/Exclamation Mark.png"
-tag: [music]
+tags: [project, music]
 ---
 _!_ is a collection of five revitalized experiments created after _The Loop._ They were released weekly during the summer of 2018.
 
@@ -13,4 +12,4 @@ _!_ is a collection of five revitalized experiments created after _The Loop._ Th
 @column
 <p class="pbox">I wrote, arranged, recorded, mixed, and mastered all music in this collection using Logic Pro as my DAW. The tracks range in style from arpeggiating, video-gamey themes to snappy, saxophone-driven instrumental pop. Though thoroughly simple and accessible, the music is difficult to categorize.
 <br/>
-The fifth installment...didn't turn out so well. Hence the gap between IV and VI.</p>
+The fifth installment didn't come together, hence the gap between IV and VI.</p>

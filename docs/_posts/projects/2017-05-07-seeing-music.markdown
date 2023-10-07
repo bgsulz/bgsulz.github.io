@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Seeing Music"
-date:   2017-05-07 00:00:00 -0400
-categories: 
+subtitle: "Digital infographic collection"
 thumbnail: "/assets/heros/Seeing Music.png"
+tags: [project]
 ---
 _Seeing Music_ is my AP Studio Art 2D concentration project, a collection of twelve infographics about music. I completed it for my junior year of high school between January and May of 2017. A selection of four pieces is below.
 

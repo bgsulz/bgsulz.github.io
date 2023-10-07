@@ -2,10 +2,8 @@
 layout: post
 title:  "12-to-6 Shift"
 subtitle:  "Puzzle-programming game; top 2% in Ludum Dare 47"
-date:   2020-10-05 00:00:00 -0400
-categories: 
 thumbnail: "/assets/heros/12 to 6.png"
-tag: [games]
+tags: [project, games]
 ---
 For Ludum Dare 47 -- theme "Stuck in a Loop" -- I was the sole artist and lead programmer and designer on the our team of three. Using Unity as our game engine and Affinity Designer for artwork, we created 12-to-6 Shift, a programming puzzle game about rigging a friendly robot to do your pizza deliveries for you.
 

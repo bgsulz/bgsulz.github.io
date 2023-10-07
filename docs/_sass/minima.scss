@@ -1,8 +1,6 @@
 @charset "utf-8";
 
-// Define defaults for each variable.
-
-$base-font-family: 'Atkinson Hyperlegible', Helvetica, sans-serif, !default;//"Jetbrains Mono", monospace,  !default;
+$base-font-family: "Schibsted Grotesk", Helvetica, sans-serif !default;
 $base-font-size: 18px !default;
 $base-font-weight: 400 !default;
 $bold-font-weight: 700 !default;
@@ -10,17 +8,16 @@ $small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit: 30px !default;
+$corner-radius: 5px !default;
 
-$text-color: #cacaca !default;
-$background-color: #1e1e1e !default;
+$text-color: #dad9d8 !default;
+$background-color: #1e1d1c !default;
 $brand-color: #ffc831 !default;
 
-$background-color-dark: darken($background-color, 5%) !default;
-$background-color-light: lighten($background-color, 5%) !default;
+$background-color-dark: darken($background-color, 7%) !default;
+$background-color-light: lighten($background-color, 12%) !default;
 
 $table-text-align: left !default;
-
-// Width of the content area
 $content-width: 900px !default;
 
 $on-palm: 600px !default;
@@ -28,13 +25,6 @@ $on-laptop: 800px !default;
 
 $transition-time: 0.1s;
 
-// Use media queries like this:
-// @include media-query($on-palm) {
-//   .wrapper {
-//     padding-right: $spacing-unit / 2;
-//     padding-left: $spacing-unit / 2;
-//   }
-// }
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
@@ -45,7 +35,4 @@ $transition-time: 0.1s;
   font-size: $base-font-size * $ratio;
 }
 
-// Import partials.
-@import "minima/base",
-"minima/layout",
-"minima/syntax-highlighting";
+@import "minima/base", "minima/layout", "minima/syntax-highlighting";

@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Dropples"
-date:   2020-08-08 00:00:00 -0400
-categories: 
 thumbnail: "/assets/heros/Dropples.png"
-tag: [games]
+subtitle: "Minimalist digital board game"
+tags: [project, games]
 ---
 _Dropples_ is a virtual board game for two players. Compete with a friend in local multiplayer strategy.
 

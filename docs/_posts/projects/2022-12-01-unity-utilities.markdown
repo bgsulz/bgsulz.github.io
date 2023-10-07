@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Unity Utilities"
-date:   2022-12-01 00:00:00 -0400
-categories: 
+subtitle: "Convenient and powerful Editor extensions"
 thumbnail: "/assets/heros/Unity%20Utilities.png"
-tag: [unity]
+tags: [project, unity]
 ---
 
 I've put out a handful of open-source Unity utilities to extend and complete the editor's functionality. These are features I really wish would come stock, so I've done my best to make them seem as native as possible.

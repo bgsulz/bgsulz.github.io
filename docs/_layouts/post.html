@@ -13,12 +13,10 @@ layout: default
   {%- endif -%} -->
 
   <header class="post-header">
-
     {%- if page.thumbnail -%}
       <img src="{{ page.thumbnail }}" class="thumbnail-featured" />
     {%- endif -%}
-
-    <div class="post-heading-block raised">
+    <div class="post-heading-block">
       <h1 class="post-heading post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
       {%- if page.subtitle -%}
         <h3 class="post-heading post-subtitle" itemprop="name headline">{{ page.subtitle | escape }}</h3>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Vote Line A"
-date:   2021-09-01 00:00:00 -0400
-categories: 
+subtitle: "Digital and print designs for local political campaign"
 thumbnail: "/assets/heros/Vote Line A.png"
+tags: [project]
 ---
 For their 2019 and 2021 campaigns, the Ridgefield Democratic Town Committee hired me as graphic designer. My task was to create campaign print materials, posters, and web assets.
 

@@ -2,6 +2,7 @@
 layout: home
 hidden: true
 onlytag: [games]
+permalink: /andromeda/
 ---
 
 # Hello Andromeda!

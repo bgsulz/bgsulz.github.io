@@ -10,14 +10,14 @@ I'm Ben. I make music and video games using my computer.
 
 #### Unity / C#
 5+ years of experience; original independent games, game jams, and university projects. I used Unity for:
-- Educational platformer [Rosy Ruins](_posts/2019-05-15-rosy.markdown).
-- Minimalist board game [Dropples](_posts\2020-08-08-dropples.markdown).
-- Programming puzzler [12-to-6 Shift](_posts\2020-10-05-twelve-to-six.markdown).
+- Educational platformer [Rosy Ruins]({% post_url /projects/2019-05-15-rosy %}).
+- Minimalist board game [Dropples]({% post_url /projects/2020-08-08-dropples %}).
+- Programming puzzler [12-to-6 Shift]({% post_url /projects/2020-10-05-twelve-to-six %}).
 - Management-action game [Pesadilla Hotel](https://robertbuckley.itch.io/pesadilla-hotel).
-- Splitting platformer [c.a.l.e.b.](_posts\2021-11-10-caleb.markdown)
-- Frenetic mini-shooter [Ghost Town Gunner](_posts\2021-04-05-ghost-town-gunner.markdown).
-- Goofy boxing game [Roll with the Punches](_posts\2022-11-10-punches.markdown).
-- Oddball rhythm game [Thirsty Bird](_posts\2022-12-31-thirsty-bird.markdown) (coming soon.)
+- Splitting platformer [c.a.l.e.b.]({% post_url /projects/2021-11-10-caleb %})
+- Frenetic mini-shooter [Ghost Town Gunner]({% post_url /projects/2021-04-05-ghost-town-gunner %}).
+- Goofy boxing game [Roll with the Punches]({% post_url /projects/2022-11-10-punches %}).
+- Oddball rhythm game [Thirsty Bird]({% post_url /projects/2023-09-20-thirsty-bird %}).
 - and more!
 
 #### Java
@@ -38,17 +38,17 @@ Playing since age 5; deep understanding of Western music theory and experience w
 
 #### Ableton Live
 5+ years of experience; original songs, backing tracks, sound design. I used Ableton for:
-- Bouncy theme for game [Dropples](docs\_posts\2020-08-08-dropples.markdown).
-- Western pastiche for game [Ghost Town Gunner](docs\_posts\2021-04-05-ghost-town-gunner.markdown).
-- Toasty orchestra for podcast [Dear Literature](docs\_posts\2021-04-12-dear-literature.markdown).
+- Bouncy theme for game [Dropples]({% post_url /projects/2020-08-08-dropples %}).
+- Western pastiche for game [Ghost Town Gunner]({% post_url /projects/2021-04-05-ghost-town-gunner %}).
+- Toasty orchestra for podcast [Dear Literature]({% post_url /projects/2021-04-12-dear-literature %}).
 - Delicate pop-ballad album (and Wesleyan University capstone project) _Heavy Hands_ (coming soon.)
-- Punchy OST for game [Thirsty Bird](docs\_posts\2022-12-31-thirsty-bird.markdown) (coming soon.)
+- Punchy OST for game [Thirsty Bird]({% post_url /projects/2023-09-20-thirsty-bird %}) (coming soon.)
 - and more!
 
 #### Logic Pro
 Learned 2013; original compositions. I used Logic for:
-- Videogamey instrumental album [_The Loop_](docs\_posts\2016-07-01-loop.markdown)
-- Instrumental compilation ["!"](docs\_posts\2018-07-01-exclamation-mark.markdown)
+- Videogamey instrumental album [_The Loop_]({% post_url /projects/2016-07-01-loop %})
+- Instrumental compilation ["!"]({% post_url /projects/2018-07-01-exclamation-mark %})
 - and more!
 
 Independent video game developer. Skilled in Unity/C#, Java, Python.

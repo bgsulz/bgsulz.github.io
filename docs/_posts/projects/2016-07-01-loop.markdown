@@ -2,10 +2,8 @@
 layout: post
 title:  "The Loop"
 subtitle: "Instrumental mini-album"
-date:   2016-07-01 00:00:00 -0400
-categories: 
 thumbnail: "/assets/heros/Loop.png"
-tag: [music]
+tags: [project, music]
 ---
 _The Loop_ is my first album, a youthful ode to my first 16 years.
 

@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Thirsty Bird's Retro VFX"
+subtitle: "Post-processing palettization and sand trail trickery"
+thumbnail: "/assets/heros/Bird.png"
+# tags: [blog]
+tags: []
+---
+Here are some details about how I achieved the retro visuals of Thirsty Bird.
+
+## Resolution
+
+The game's resolution is 320x240, and its tiles are 20x20px. I don't recommend working at this resolution. It scales neatly to 1440p but not 1080p, and 20px isn't a power of two, so art assets can't efficiently utilize crunch compression.
+
+> If I were to do it over, I'd go with 32px tiles at 480x360.
+
+I'm using URP, primarily because when I started the project, Shader Graph was exclusive to SRPs. I also surmised I might use some features of the 2D renderer -- I didn't. I'm using [the Short Hike method:]() the entire game gets painted onto a 320x240 render texture asset, which is displayed using a Raw Image on a UI Canvas. 
+
+I don't like this method -- major unnecessary overhead from the Canvas. I'd much rather draw directly to a camera's color buffer. But URP's render features have been so buggy for so many versions that I eventually gave in.
+
+> Ideally, I'd use Unity's pixel-perfect camera component and a render feature to blit the post-processing material. I will explore this next time I update the project's Unity version. It would be much more performant.
+
+There are two unusual effects in Thirsty Bird: full-screen palette-snapping, and the tower sand trail. Let's start with the former.
+
+## Palette-snapping
+
+I created all of the game's pixel art using the lovely Resurrection 64 palette from Lospec. When only these colors are used, the game has wonderful visual consistency. But introducing any transparent overlay (cloud shadows, particle effects, etc.) results in colors that don't adhere to the palette.
+
+The task was to create a shader that determined the closest color in the palette. Rather than looping over every palette color for each pixel and finding the one with the minimum distance, I used a LUT. I palette-snapped it in advance with a short Python program. 
+
+> If you want to palettize your own LUT, [here's a StackOverflow answer]() which shows off a technique even more efficient than the one I came up with.
+
+_But if you represent RGB color as a 3D vector, color distances are not perceptually accurate!_
+
+It's true! Most of the game's art uses this color palette anyway. This is just for handling the edge cases. I just tune each of these effects' colors to something that looks pleasant through this palette-snapping filter.
+
+## The sand trail
+
+Thirsty Bird has three cameras: a main camera, a UI camera looking at the raw image, and a **"trail camera."** The trail camera only sees a layer called "_Masked" (the "trail input") and paints it onto a render texture asset (the "trail buffer.") A shader "transforms" that buffer into the sand trail visuals (the "trail output") and a screen-size SpriteRenderer draws it.
+
+### Trail input
+
+The trail input is created by a soft particle system attached to the tower. The particles emit over distance and gradually fade over time.
+
+_Why not just write a certain shape to the trail buffer and fade the buffer with a compute shader, or something?_
+
+I opted to trade off technical soundness for artistic control. Is it a bit hacky to use a particle system as input? Sure. But it results in intimate control over the shape of the trail -- I simply adjust the particle system -- and immediate visual feedback. 
+
+I can also refine the shape of the trail by adding additional sprites. White sprites are additive; black sprites mask. This is how I create the "ridge" around the tower: the trail output is drawn on top of the tower, allowing the trail to overlap it. The top surface is masked out with a black sprite.
+
+Thirsty Bird uses additive scene loading to easily swap out different environments. The trail input _and_ output exist in the environment scene. Once again, this allows me more artistic control -- levels 4 and 5, whose trail is a cloud rather than a path through the sand, use a different particle system that is noisier and fluffier.
+
+### Trail buffer
+
+The texture itself is quarter-resolution. 80x60! With bilinear scaling, visual artifacts are minimal. I was surprised by how far I could push it.
+
+It is a single-channel (R8) texture -- I presume Unity's cameras perform some optimization given a single-channel output texture, but who knows?
+
+### Trail output
+
+The trail output shader itself is a monstrous Shader Graph. To create rough edges, I found that the stablest approach was to generate as smooth a trail input as possible and add screen-space Voronoi noise in the shader. The processing is pretty simple.
+
+To convert a fuzzy gradient ball into a round outline, select all pixels between two limit values. In other words, take two thresholds, invert one, and multiply together. I turned this into a sub-graph poetically named "fuzzy-to-outline."
+
+I repeat this process to create the trail's three concentric outlines; the center is a single threshold. Each is multiplied with a color or texture.
+
+Levels 4 and 5 use a different shader entirely. (It's the same one as the background clouds use in level 4.) It's not really worth going into -- just a single fuzzy-to-outline; the inside dithers the source texture and uses it to lerp between an inner and outer color.
+
+> If you're curious, the background clouds; source texture is just fractal Voronoi noise. Simply add a bunch of Voronoi noise together of different sizes, and decrease the intensity inverse-proportionally to the scale -- smaller "gobs" contribute less intensity.

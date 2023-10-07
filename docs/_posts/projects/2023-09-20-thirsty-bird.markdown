@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Thirsty Bird"
-date:   2022-12-31 00:00:00 -0400
-categories: 
+subtitle: "Tricky, offbeat rhythm game"
 thumbnail: "/assets/heros/Bird.png"
-tag: [games, unity, music]
+tags: [project, games, unity, music]
 ---
 Thirsty Bird is a tiny rhythm game about a symbiotic dance between the raindrops. Use your computer's keyboard to position the bird under the falling raindrops, and feel the rhythm of the skies to help your timing.
 
@@ -15,7 +14,9 @@ A content-complete beta version of the game is playable at the link below.
 @row
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1640341378&color=%236c6c73&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 @column
-Thirsty Bird consists of five levels of original music. The style is jaunty and videogamey, featuring sampled instruments and hi-fi synths in blocky arrangements that complement the game's chunky pixel art. You can listen to the music for the first two levels here.
+<p class="pbox">
+Thirsty Bird consists of five levels of original music. The style is jaunty and videogamey, featuring sampled instruments and hi-fi synths in blocky arrangements that complement the game's chunky pixel art. You can listen to the music here.
+</p>
 
 @row
 Thirsty Bird will also support custom charts using a simple text syntax. No need for overcomplicated editors with cumbersome copy-pasting -- write charts as fast as you can type, and share them any way you'd like.
