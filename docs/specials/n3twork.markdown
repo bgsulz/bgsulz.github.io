@@ -2,6 +2,7 @@
 layout: home
 hidden: true
 onlytag: [unity, games]
+permalink: /n3twork/
 ---
 
 # Hello N3twork!
