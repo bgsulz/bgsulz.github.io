@@ -58,6 +58,11 @@ figure,
   margin-bottom: $spacing-unit / 2;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  margin-top: $spacing-unit;
+}
+// TODO: Vertical spacing is weird because row adds 15px below itself. How to fix?
+
 // IMAGES ------------------------------
 
 img {
