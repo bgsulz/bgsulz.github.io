@@ -3,7 +3,7 @@ layout: post
 title:  "The Ridgefielder"
 subtitle: "Student-run news magazine"
 thumbnail: "/assets/heros/Ridgefielder.png"
-tags: [project]
+tags: [project, design, print]
 ---
 In high school, I was the sole design editor for the ambitious print reboot of our online news magazine, _The Ridgefielder._ Using first Sketch and then InDesign as our quarterly installments scaled in length, I designed and refined the magazine's design identity over the course of two years.
 

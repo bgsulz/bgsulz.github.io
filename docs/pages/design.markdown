@@ -1,9 +1,9 @@
 ---
 layout: home
 hidden: false
-permalink: /games/
-onlytag: games
+permalink: /design/
+onlytag: design
 weight: 0
 ---
 
-# Games
+# Design

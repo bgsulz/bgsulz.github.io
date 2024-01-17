@@ -3,6 +3,7 @@ layout: home
 hidden: false
 permalink: /blog/
 onlytag: blog
+weight: 8
 ---
 
 # Blog

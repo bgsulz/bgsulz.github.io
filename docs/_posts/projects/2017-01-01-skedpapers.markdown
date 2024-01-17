@@ -3,7 +3,7 @@ layout: post
 title:  "Skedpapers"
 subtitle: "Generator for school schedule wallpapers"
 thumbnail: "/assets/heros/Skedpaper.png"
-tags: [project]
+tags: [project, design]
 ---
 
 My high school had a complex eight-day rotating schedule. Each day in the eight-day cycle had a letter -- **A** through **H** -- and each letter correlated to a different ordering of classes.

@@ -3,6 +3,7 @@ layout: page
 hidden: true
 title: Debug
 permalink: /debug/
+weight: 0
 ---
 
 # Header 1

@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+weight: 9
 ---
 
 I'm Ben. I make music and video games using my computer.
@@ -23,6 +24,8 @@ I'm Ben. I make music and video games using my computer.
 #### Java
 Learned 2010; used extensively with Processing framework for original game prototypes since 2016, including
 - Action minigame [Pineslice](https://bgsulz.itch.io/pineslice).
+- The prototype of board game [Dropples]({% post_url /projects/2020-08-08-dropples %}).
+- Specialized wallpaper generator [Skedpapers.]({% post_url /projects/2017-01-01-skedpapers %})
 
 #### C
 Learned 2022; used with raylib framework for original game prototypes, including
@@ -51,10 +54,8 @@ Learned 2013; original compositions. I used Logic for:
 - Instrumental compilation ["!"]({% post_url /projects/2018-07-01-exclamation-mark %})
 - and more!
 
-Independent video game developer. Skilled in Unity/C#, Java, Python.
-Experienced digital musician/composer/sound designer for theater and film. Skilled in Ableton Live, Logic Pro.
 
 ### Education
-Bachelor of Arts, Music - Wesleyan University
-Recipient of Leavell Memorial Prize from Music Department
+Bachelor of Arts, Music - Wesleyan University\
+Recipient of Leavell Memorial Prize from Music Department\
 Grade: GPA 3.95
