@@ -4,67 +4,52 @@ layout: default
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <!-- {%- if page.custom-bg -%}
+  {%- if page.custom-bg -%}
   <style>
     body {
       background: {{ page.custom-bg }};
     };
   </style>
-  {%- endif -%} -->
+  {%- endif -%}
 
   <header class="post-header">
     {%- if page.thumbnail -%}
-      <img src="{{ page.thumbnail }}" class="thumbnail-featured" />
+    <img src="{{ page.thumbnail }}" class="thumbnail-featured" />
     {%- endif -%}
     <div class="post-heading-block">
       <h1 class="post-heading post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+      <h4 class="post-heading post-date" itemprop="name headline">
+        {% if page.startdate %}
+        {{ page.startdate | date: "%B %Y" }} -
+        {% endif %}
+        {{ page.date | date: "%B %Y" }}
+      </h4>
       {%- if page.subtitle -%}
-        <h3 class="post-heading post-subtitle" itemprop="name headline">{{ page.subtitle | escape }}</h3>
+      <h3 class="post-heading post-subtitle" itemprop="name headline">{{ page.subtitle | escape }}</h3>
       {%- endif -%}
     </div>
-    <!-- <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p> -->
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     <!-- {{- content -}} -->
     {%- assign rows = content | split:"@row" -%}
-      {%- for row in rows -%}
-      {%- if row contains "-nospace" -%}
-        {%- assign row = row | replace:"-nospace", "" -%}
-        <div class="row row-nospace" id="row-{{- forloop.index -}}">
+    {%- for row in rows -%}
+    {%- if row contains "-nospace" -%}
+    {%- assign row = row | replace:"-nospace", "" -%}
+    <div class="row row-nospace" id="row-{{- forloop.index -}}">
       {%- else -%}
-        <div class="row row-space" id="row-{{- forloop.index -}}">
-      {%- endif -%}
+      <div class="row row-space" id="row-{{- forloop.index -}}">
+        {%- endif -%}
 
-          {%- assign columns = row | split:"@column" -%}
-          {%- for column in columns -%}
-            <div class="col-sm-{{- 12 | divided_by:forloop.length -}}">
-              <p>{{- column | replace:"-nospace", "" -}}</p>
-              <!-- {%- assign paragraphs = column | replace:"-nospace", "" | split:"
-"-%}
-              {%- for paragraph in paragraphs -%}
-              {%- assign paragraph_words = paragraph | strip | strip_newlines | strip | number_of_words -%}
-                {%- if paragraph and paragraph != "" and paragraph != " " and paragraph_words > 0 -%}
-                  <p>{{- paragraph | strip -}}</p>
-                {% endif %}
-              {% endfor %} -->
-            </div>
-          {%- endfor -%}
-
+        {%- assign columns = row | split:"@column" -%}
+        {%- for column in columns -%}
+        <div class="col-sm-{{- 12 | divided_by:forloop.length -}}">
+          <p>{{- column | replace:"-nospace", "" -}}</p>
         </div>
+        {%- endfor -%}
+
+      </div>
       {%- endfor -%}
-  </div>
-
-  <!-- {%- if site.disqus.shortname -%}
-  {%- include disqus_comments.html -%}
-  {%- endif -%} -->
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+    </div>
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

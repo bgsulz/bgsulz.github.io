@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Ridgefield DTC Print 2023"
+subtitle: "Print identity and design for political coalition"
+thumbnail: "/assets/heros/RDTC23.png"
+tags: [project, design]
+startdate: "2023-06-01 00:00:00"
+---
+
+For the 2023 election cycle, I was hired as a contract graphic designer by 818 Political, an independent consulting firm responsible for the Ridgefield Democratic Town Committee's copy and messaging. In collaboration with the experts at 818, I significantly refined my [2021 designs,]({% post_url /projects/2021-09-01-line-a %}) lending a consistent crisp professionalism to the campaign's print and web materials.
+
+## Logo
+
+My first task -- and the one that won me the job -- was to refine the iconic fountain logo. As it's been in use for a couple decades, the fountain has a bit of ubiquity within Ridgefield. My new version had to be unflinchingly precise. It preserves the elegant steps and arching water of the original design while gracefully handling the water's overlapping paths.
+
+[![Logo Evolution](/assets/rdtc23/Logo%20Evolution.png)](/assets/rdtc23/Logo%20Evolution.png){:target="_blank"}
+
+## Trifold
+
+Like past years, the flagship piece of promotional mail for 2023 was a trifold guide enumerating each candidate's qualifications. 818's analysis revealed that the plurality of those reached by mail in Ridgefield were middle-aged or older; in response, the 2023 design focuses on understated elegance and legibility.
+
+[![Trifold Exterior](/assets/rdtc23/Trifold.png)](/assets/rdtc23/Trifold.png){:target="_blank"}
+
+### Candidate Cards
+
+Our candidates were over the moon with the trifold. They loved its candid presentation of each canidate's information, and so the DTC requested that the boxes on the trifold interior be isolated into "candidate cards" for use on social media.
+
+[![Trifold Interior](/assets/rdtc23/Cards.png)](/assets/rdtc23/Cards.png){:target="_blank"}
+
+## Lawn Signs
+
+Once again iterating upon the 2021 designs, the 2023 lawn signs boast a range of playful colors and town-leading legibility. The design is geometrically simple, but the type has been meticulously adjusted for fraction-of-a-second parsing.
+
+@row
+[![Lawn Sign Samples](/assets/rdtc23/Signs.png)](/assets/rdtc23/Signs.png){:target="_blank"}
+@column
+<p class="pbox">
+The colors return for another year: 818 loved the idea of a unified layout with a different color per board. The signs' consistency ends up symbolizing the coordinative and collaborative spirit of the Ridgefield DTC.
+</p>
+
+@row
+
+## Events
+
+For the campaign season's promotional events, I designed posters for distribution via print and social media. As these posters were displayed among a variety of other materials, I stuck with a simple, high-contrast color palette and focused on making immediate and proportional layouts.
+
+[![Posters](/assets/rdtc23/Flyers.png)](/assets/rdtc23/Flyers.png){:target="_blank"}
+
+### Pie & Politics
+
+Pie & Politics, a town-favorite event, returned for 2023 -- and with it, its beloved pie graphic. I refined the shape of the pie, bringing it in line with the professionalism of the other materials while maintaining its air of playfulness.
+
+[![Pie Evolution](/assets/rdtc23/Pie%20Evolution.png)](/assets/rdtc23/Pie%20Evolution.png){:target="_blank"}

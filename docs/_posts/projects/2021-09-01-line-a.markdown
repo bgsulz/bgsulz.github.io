@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Vote Line A"
-subtitle: "Digital and print designs for local political campaign"
+title:  "Vote Line A - 2019-2021"
+subtitle: "Digital and print identity for local politics"
 thumbnail: "/assets/heros/Vote Line A.png"
 tags: [project]
+startdate: "2019-05-01 00:00:00"
 ---
 For their 2019 and 2021 campaigns, the Ridgefield Democratic Town Committee hired me as graphic designer. My task was to create campaign print materials, posters, and web assets.
+
+## 2019
 
 My approach was to collaborate with DTC members on a brand identity, including a recognizable color palette and type design as well as a handful of slogans and taglines. We darkened the Democratic Party blue to a rich navy for legibility, and generated a library of text boxes with subtle dimensionality and depth. Both these modal elements and our choice of typeface -- Barlow -- are pleasingly geometric but subtly personal.
 
@@ -18,6 +21,8 @@ The resulting print materials are confident, eye-catching, and ever-so-slightly 
 
 @row
 When designing lawn signs, we expanded the color palette to a range of dark, cool colors. Were the signs monochromatic, a viewer might glance over a sign they hadn't seen before, thinking it already seen.
+
+## 2021
 
 My 2021 refinement of Vote Line A doubled down on its tessellated elements and re-emphasized the Ridgefield DTC logo.
 

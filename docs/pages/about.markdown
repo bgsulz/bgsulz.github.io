@@ -59,3 +59,10 @@ Learned 2013; original compositions. I used Logic for:
 Bachelor of Arts, Music - Wesleyan University\
 Recipient of Leavell Memorial Prize from Music Department\
 Grade: GPA 3.95
+
+
+### About this website
+
+This is a Jekyll website using a highly personalized theme. You can find the source code [here on my GitHub.](https://github.com/bgsulz/bgsulz.github.io)
+
+Absolutely every letter of text on this website was written without the assistance of LLMs (large language models; that is, auto-regressive transformers trained on language.) I am not unilaterally opposed to their use; however, you deserve to know that these words are my own.
