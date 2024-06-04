@@ -65,4 +65,10 @@ Grade: GPA 3.95
 
 This is a Jekyll website using a highly personalized theme. You can find the source code [here on my GitHub.](https://github.com/bgsulz/bgsulz.github.io)
 
-Absolutely every letter of text on this website was written without the assistance of LLMs (large language models; that is, auto-regressive transformers trained on language.) I am not unilaterally opposed to their use; however, you deserve to know that these words are my own.
+### About the content
+
+- Every letter of text on this website was written without the assistance of LLMs (large language models; that is, auto-regressive transformer models that generate language. For example: OpenAI's ChatGPT, Google's Gemini, Meta's LLaMa.) 
+- Every pixel of every image was created without the assistance of GANs (generative adversarial networks) or diffusion models (commonly called image generation models. For example: Midjourney's model, Stability AI's Stable Diffusion, OpenAI's DALL-E.)
+- Every second of sound and music on this website was created without the assistance of music generation models (that is, diffusion transformers trained on music and audio. For example: ElevenLabs's text-to-sound model, Suno's music model, Udio's music model.)
+
+I am not unilaterally opposed to the usage of generative deep learning models; however, you deserve to know that my work is my own. Should I use such a tool in the future, I will be transparent about its usage. I would never claim to have played a virtual string instrument or hand-painted a piece of digital artwork; similarly, I will never attempt to disguise machine-generated work as mine. If you would like to discuss further, get in touch.
