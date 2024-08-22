@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hire Me
-hidden: false
+hidden: true
 permalink: /hire-me/
 weight: 10
 ---
