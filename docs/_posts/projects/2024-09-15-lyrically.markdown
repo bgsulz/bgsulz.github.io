@@ -3,7 +3,7 @@ layout: post
 title: "Lyrically"
 subtitle: "Lyric excerpt daily guesser"
 thumbnail: "/assets/heros/Lyrically.png"
-tags: [project, design]
+tags: [project, design, games]
 permalink: /lyrically/
 startdate: "2024-08-01 00:00:00"
 ---
