@@ -4,7 +4,7 @@ title: "Lyrically"
 subtitle: "Lyric excerpt daily guesser"
 thumbnail: "/assets/heros/Lyrically.png"
 tags: [project, design]
-permalink: /auther/
+permalink: /lyrically/
 startdate: "2024-08-01 00:00:00"
 ---
 Lyrically is a daily guesser game: guess a song from lyric fragments. It has daily puzzles and an archive where you can play all past puzzles.
