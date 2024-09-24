@@ -9,7 +9,7 @@ startdate: "2024-08-01 00:00:00"
 ---
 Lyrically is a daily guesser game: guess a song from lyric fragments. It has daily puzzles and an archive where you can play all past puzzles.
 
-[Play now](https://lyrics-guessing-game.web.app){: .btn}
+[Play now](https://lyrically.fun/){: .btn}
 
 This is the first of several daily guesser games I plan to create; it's a proof of concept partially intended for determining a dead-simple "tech stack" (if you can call it that) to enable easy puzzle design and rapid iterative publishing.
 
