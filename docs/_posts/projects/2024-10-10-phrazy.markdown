@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Phrazy"
+subtitle: "Crossword-like daily puzzle game"
+thumbnail: "/assets/heros/Phrazy.png"
+tags: [project, design, games]
+permalink: /phrazy/
+startdate: "2024-10-10 00:00:00"
+---
+Phrazy is a new daily puzzle game that's like a crossword, but for phrases. Assemble words from a bank into a grid, making sure that all adjacent pairs form two-word phrases or compound words.
+
+[Play now](https://phrazy.fun/){: .btn}
+
+This is my follow-up to [Lyrically:]({% post_url /projects/2024-09-15-lyrically %}) a more challenging and sophisticated word puzzler.
+
+## How does it work?
+
+Phrazy works similarly to Lyrically, with a Firestore database of phrases and puzzles that live-updates from a Google Sheet and a Flutter frontend. Its source code is [on GitHub here.](https://github.com/bgsulz/Phrazy)
+
+As making puzzles is more involved for Phrazy than Lyrically, I created another "puzzle generator" Google Sheet that converts a grid of cells into a string representations of boards and word banks. Maybe I'll make a proper editor someday, but for the early stages of Phrazy, this Google Sheet solution is reliable, robust, and easy to share with other people interested in making their own puzzles.
+
+[![Phrazy Generator](/assets/phrazy/Phrazy%20Generator.png)](/assets/phrazy/Phrazy%20Generator.png){:target="_blank"}
