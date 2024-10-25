@@ -5,7 +5,6 @@ subtitle: "Crossword-like daily puzzle game"
 thumbnail: "/assets/heros/Phrazy.png"
 tags: [project, design, games]
 permalink: /phrazy/
-startdate: "2024-10-10 00:00:00"
 ---
 Phrazy is a new daily puzzle game that's like a crossword, but for phrases. Assemble words from a bank into a grid, making sure that all adjacent pairs form two-word phrases or compound words.
 

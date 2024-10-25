@@ -5,7 +5,7 @@ subtitle: "Jazz-ish pop-ish instrumental-ish album"
 thumbnail: "/assets/heros/Gardsky.png"
 tags: [project, music]
 permalink: /gardsky/
-startdate: "2024-06-23 00:00:00"
+startdate: "2023-06-23 00:00:00"
 ---
 Josh Gardos and I are Gardsky, a musical duo.
 
