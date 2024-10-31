@@ -45,13 +45,25 @@ Auther is built with Flutter.
 See links below. The best case scenario is that this whole project turns out to be useless. I'd be quite happy about that.
 
 **1. Advances across several fields of AI have yielded likeness-cloning software of increasing ease.**
-- [Early 2023 - "Microsoft’s new AI can simulate anyone’s voice with 3 seconds of audio."](https://arstechnica.com/- information-technology/2023/01/microsofts-new-ai-can-simulate-anyones-voice-with-3-seconds-of-audio/)
-- [Early 2024 - "Microsoft’s VASA-1 can deepfake a person with one photo and one audio track."](https://arstechnica.com/- information-technology/2024/04/microsofts-vasa-1-can-deepfake-a-person-with-one-photo-and-one-audio-track/)
+- [Early 2023 - "Microsoft’s new AI can simulate anyone’s voice with 3 seconds of audio."](https://arstechnica.com/information-technology/2023/01/microsofts-new-ai-can-simulate-anyones-voice-with-3-seconds-of-audio/)
+- [Early 2024 - "Microsoft’s VASA-1 can deepfake a person with one photo and one audio track."](https://arstechnica.com/information-technology/2024/04/microsofts-vasa-1-can-deepfake-a-person-with-one-photo-and-one-audio-track/)
 - [Early 2024 - Alibaba EMO: "Input a single reference image and the vocal audio ... our method can generate ... videos - with expressive facial expressions."](https://humanaigc.github.io/emote-portrait-alive/)
 - [Mid-2024 - "Using one photo and free software, someone can impersonate your appearance in a video chat."](https://arstechnica.com/information-technology/2024/08/new-ai-tool-enables-real-time-face-swapping-on-webcams-raising-fraud-concerns/)
 
 **2. Bad actors are using tools like these to conduct imposter scams.**
-- [Early 2023 - "[Arizona mother] believes scammers cloned her daughter’s voice in a fake kidnapping."](https://www.cnn.- com/2023/04/29/us/ai-scam-calls-kidnapping-cec/index.html)
-- [Early 2024 - "Deepfake scammer walks off with $25 million in first-of-its-kind AI heist."](https://arstechnica.com/- information-technology/2024/02/deepfake-scammer-walks-off-with-25-million-in-first-of-its-kind-ai-heist/)
-- [Early 2024 - "School athletic director arrested for framing principal using AI voice synthesis"](https://arstechnica.- com/information-technology/2024/04/alleged-ai-voice-imitation-leads-to-arrest-in-baltimore-school-racism-controversy/)
+- [Early 2023 - "In 2022, $11 million was stolen through thousands of impostor phone scams."](https://arstechnica.com/tech-policy/2023/03/rising-scams-use-ai-to-mimic-voices-of-loved-ones-in-financial-distress/)
+- [Early 2023 - "[Arizona mother] believes scammers cloned her daughter’s voice in a fake kidnapping."](https://www.cnn.com/2023/04/29/us/ai-scam-calls-kidnapping-cec/index.html)
+- [Early 2023 - "They thought loved ones were calling for help. It was an AI scam."](https://archive.ph/25TCt)
+- [Early 2024 - "Deepfake scammer walks off with $25 million in first-of-its-kind AI heist."](https://arstechnica.com/information-technology/2024/02/deepfake-scammer-walks-off-with-25-million-in-first-of-its-kind-ai-heist/)
+- [Early 2024 - "School athletic director arrested for framing principal using AI voice synthesis"](https://arstechnica.com/information-technology/2024/04/alleged-ai-voice-imitation-leads-to-arrest-in-baltimore-school-racism-controversy/)
+- [Early 2024 - "A Brooklyn couple got a call from relatives who were being held ransom. Their voices -- like many others these days -- had been cloned."](https://www.newyorker.com/science/annals-of-artificial-intelligence/the-terrifying-ai-scam-that-uses-your-loved-ones-voice)
 - [Late 2024 - "Just over half (53%) of businesses in the U.S. and U.K. have been targets of a [deepfake imposter scam] with 43% falling victim ..."](https://www.cfodive.com/news/deepfake-scams-escalate-hitting-53-percent-of-businesses/725836/)
+- [Late 2024 - "UN: Southeast Asian cyber-fraud industry ‘outpacing’ law enforcement with new tools"](https://therecord.media/southeast-asian-cyber-fraud-outpaces-crackdown-efforts-united-nations)
+- [Late 2024 - "Deepfake lovers swindle victims out of $46 million in Hong Kong AI scam"](https://arstechnica.com/ai/2024/10/deepfake-lovers-swindle-victims-out-of-46m-in-hong-kong-ai-scam/)
+
+**3. Though codewords are a recommended line of defense, they are fragile.**
+- [Mid-2023 - "Nicoletti suggested all family members should adopt a 'safe word' ..."](https://www.goodmorningamerica.com/living/story/cybersecurity-expert-protect-family-ai-scams-100292080)
+- [Mid-2024 - "... a safe word can be especially helpful for young ones or elderly relatives who may be difficult to contact otherwise."](https://archive.ph/Vr9eA)
+- [Mid-2024 - "Defend Yourself against AI Impostor Scams with a Safe Word"](https://www.scientificamerican.com/article/a-safe-word-can-protect-against-ai-impostor-scams/)
+    - "[My partner] provided an imaginary situation in which hostage-takers could use the word without even knowing its secret meaning. We’re still working to find one that’s foolproof."
+    - "[My family and I] agreed on a code word based on a funny family lore story ... Hopefully we’ll be able to remember it ..."
