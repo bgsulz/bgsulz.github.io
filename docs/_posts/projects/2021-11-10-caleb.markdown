@@ -20,7 +20,7 @@ The original concept for c.a.l.e.b. itself originated during a class at Wesleyan
 ![Moving Platforms](</assets/caleb/Caleb Moving Platforms.png>)
 @column
 <div class="pbox">
-With a weekend to program, I simplified the design and mechanics of c.a.l.e.b., honing in on the character's most unique attribute: the ability to control each half separately. I ended up with a roly-poly character controller with a satisfying magnetic pop and snap. Governing c.a.l.e.b.'s transformations is a ScriptableObject-based state machine that I refined and reused in the much more complex [Thirsty Bird.]({% post_url /projects/2023-09-20-thirsty-bird %})
+With a weekend to program, I simplified the design and mechanics of c.a.l.e.b., honing in on the character's most unique attribute: the ability to control each half separately. I ended up with a roly-poly character controller with a satisfying magnetic pop and snap. Governing c.a.l.e.b.'s transformations is a ScriptableObject-based state machine that I refined and reused in the much more complex [Thirsty Bird.]({% post_url /projects/2024-11-11-thirsty-bird %})
 </div>
 
 @row

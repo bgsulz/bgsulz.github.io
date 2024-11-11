@@ -18,7 +18,7 @@ I'm Ben. I make music and video games using my computer.
 - Splitting platformer [c.a.l.e.b.]({% post_url /projects/2021-11-10-caleb %})
 - Frenetic mini-shooter [Ghost Town Gunner]({% post_url /projects/2021-04-05-ghost-town-gunner %}).
 - Goofy boxing game [Roll with the Punches]({% post_url /projects/2022-11-10-punches %}).
-- Oddball rhythm game [Thirsty Bird]({% post_url /projects/2023-09-20-thirsty-bird %}).
+- Oddball rhythm game [Thirsty Bird]({% post_url /projects/2024-11-11-thirsty-bird %}).
 - and more!
 
 #### Java
@@ -45,7 +45,7 @@ Playing since age 5; deep understanding of Western music theory and experience w
 - Western pastiche for game [Ghost Town Gunner]({% post_url /projects/2021-04-05-ghost-town-gunner %}).
 - Toasty orchestra for podcast [Dear Literature]({% post_url /projects/2021-04-12-dear-literature %}).
 - Delicate pop-ballad album (and Wesleyan University capstone project) _Heavy Hands_ (coming soon.)
-- Punchy OST for game [Thirsty Bird]({% post_url /projects/2023-09-20-thirsty-bird %}) (coming soon.)
+- Punchy OST for game [Thirsty Bird]({% post_url /projects/2024-11-11-thirsty-bird %}) (coming soon.)
 - and more!
 
 #### Logic Pro
