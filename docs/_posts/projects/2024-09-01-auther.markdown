@@ -51,6 +51,7 @@ See links below. The best case scenario is that this whole project turns out to 
 - [Mid-2024 - "Using one photo and free software, someone can impersonate your appearance in a video chat."](https://arstechnica.com/information-technology/2024/08/new-ai-tool-enables-real-time-face-swapping-on-webcams-raising-fraud-concerns/)
 - [Late 2024 - "... users only need to provide a static portrait image and a driving performance video ... [our model] brings the expressiveness of portrait animation to a whole new level."](https://byteaigc.github.io/X-Portrait2/)
     - If your exposure to this technology is [Runway's Act-One,](https://runwayml.com/research/introducing-act-one) please see the above research brief. In late 2024, Act-One is ***nowhere near*** state-of-the-art.
+- [Late 2024 - DeepBrain AI's FLOAT: "... aims to synthesize talking portrait videos using a single source portrait image and driving audio."](https://deepbrainai-research.github.io/float/)
 
 **2. Bad actors are using tools like these to conduct imposter scams.**
 - [Early 2023 - "In 2022, $11 million was stolen through thousands of impostor phone scams."](https://arstechnica.com/tech-policy/2023/03/rising-scams-use-ai-to-mimic-voices-of-loved-ones-in-financial-distress/)
@@ -69,3 +70,4 @@ See links below. The best case scenario is that this whole project turns out to 
 - [Mid-2024 - "Defend Yourself against AI Impostor Scams with a Safe Word"](https://www.scientificamerican.com/article/a-safe-word-can-protect-against-ai-impostor-scams/)
     - "[My partner] provided an imaginary situation in which hostage-takers could use the word without even knowing its secret meaning. We’re still working to find one that’s foolproof."
     - "[My family and I] agreed on a code word based on a funny family lore story ... Hopefully we’ll be able to remember it ..."
+- [Late 2024 - "The FBI now recommends choosing a secret password to thwart AI voice clones from tricking people."]()
