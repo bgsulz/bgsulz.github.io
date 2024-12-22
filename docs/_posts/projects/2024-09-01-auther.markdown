@@ -53,6 +53,7 @@ See links below. The best case scenario is that this whole project turns out to 
     - If your exposure to this technology is [Runway's Act-One,](https://runwayml.com/research/introducing-act-one) please see the above research brief. As of late 2024, Act-One is ***nowhere near*** state-of-the-art.
 - [Late 2024 - DeepBrain AI's FLOAT: "... aims to synthesize talking portrait videos using a single source portrait image and driving audio."](https://deepbrainai-research.github.io/float/)
 - [Late 2024 - CAP4D: "...create realistic 4D avatars using any number of reference images. ... The avatar can be controlled ... and rendered in real time."](https://felixtaubner.github.io/cap4d/)
+- [Late 2024 - INFP: "...dynamically synthesize verbal ... interactive agent videos ... practical in instant communication ... [such as] video conferencing."](https://grisoon.github.io/INFP/)
 
 **2. Bad actors are using tools like these to conduct imposter scams.**
 - [Early 2023 - "In 2022, $11 million was stolen through thousands of impostor phone scams."](https://arstechnica.com/tech-policy/2023/03/rising-scams-use-ai-to-mimic-voices-of-loved-ones-in-financial-distress/)
