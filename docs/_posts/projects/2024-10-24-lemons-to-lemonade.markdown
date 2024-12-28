@@ -18,7 +18,7 @@ might be converted to lemonade as such:
 
 ## Style
 
-My client provided me with a handful of painterly, hand-drawn references They suggested that I use yellow, blue, and green as the color palette. The words **clean, fresh,** and **friendly** emerged as guiding principles.
+My client provided me with a handful of painterly, hand-drawn references, and suggested that I use yellow, blue, and green as the color palette. The words **clean, fresh,** and **friendly** emerged as guides.
 
 ![Reference Material](<../../assets/lemonade/Lemonade Reference Material.png>)
 
@@ -41,3 +41,5 @@ In this style, I produced a handful of sticker-like illustrations and a vintage-
 My client had a promotional event for the game shortly after I completed the design. For distribution at this event, I created layouts for a variety of on-brand print materials, including business cards, flyers, and a large foam core sign.
 
 ![Lemonade Promo Materials](<../../assets/lemonade/Lemonade Promo.png>)
+
+The game [placed third in Tiger Shark Tank,](https://www.ridgefieldct.com/post/announcing-winners-of-tiger-shark-tank-3) a pitch competition for entrepreneurs local to my hometown.
