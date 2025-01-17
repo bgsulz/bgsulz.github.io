@@ -19,6 +19,7 @@ startdate: "2021-04-27 00:00:00"
 ## Now in Early Access!
 
 Only $2! Give it a whirl and let me know what you think.
+
 [Check out Early Access on Steam](https://store.steampowered.com/app/3273230/Thirsty_Bird/){: .btn} 
 
 @row
