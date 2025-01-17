@@ -16,12 +16,16 @@ startdate: "2021-04-27 00:00:00"
 @column
 [![Level in deep space environment](<../../assets/bird/screen space.png>)](<../../assets/bird/screen space.png>)
 
+## Now in Early Access!
+
+Only $2! Give it a whirl and let me know what you think.
+[Check out Early Access on Steam](https://store.steampowered.com/app/3273230/Thirsty_Bird/){: .btn} 
+
 @row
 ## Hang in there, thirsty bird.
 
 It gets hot out in the desert. So what's a flightless chick to do but rely on the mercurial blessings of the clouds above? Hang in there, thirsty bird; the sands are alive, and you might just find an unlikely ally lurking beneath.
 
-[Wishlist on Steam](https://store.steampowered.com/app/3273230/Thirsty_Bird/){: .btn} 
 [Play demo on itch.io](https://bgsulz.itch.io/bird){: .btn} 
 
 ![Screenshot showcasing controls](<../../assets/bird/interlude 1.png>)
