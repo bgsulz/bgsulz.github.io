@@ -16,6 +16,7 @@ startdate: "2021-04-27 00:00:00"
 @column
 [![Level in deep space environment](<../../assets/bird/screen space.png>)](<../../assets/bird/screen space.png>)
 
+@row
 ## Now in Early Access!
 
 Only $2! Give it a whirl and let me know what you think.
