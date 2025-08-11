@@ -21,7 +21,11 @@ startdate: "2021-04-27 00:00:00"
 
 Only $2! Give it a whirl and let me know what you think.
 
-[Check out Early Access on Steam](https://store.steampowered.com/app/3273230/Thirsty_Bird/){: .btn} 
+[Check it out](https://store.steampowered.com/app/3273230/Thirsty_Bird/){: .btn} 
+
+@row
+@row
+![Screenshot showcasing controls](<../../assets/bird/interlude 1.png>)
 
 @row
 ## Hang in there, thirsty bird.
@@ -30,8 +34,7 @@ It gets hot out in the desert. So what's a flightless chick to do but rely on th
 
 [Play demo on itch.io](https://bgsulz.itch.io/bird){: .btn} 
 
-![Screenshot showcasing controls](<../../assets/bird/interlude 1.png>)
-
+@row
 ## A retro-ish rhythm-ish game about catching raindrops.
 
 Dodge, weave, and catch with an unusual two-level control scheme. Use the rhythm of the skies to help your timing. Go with the flow and let your hands learn to work together. It feels a little like learning a musical instrument. This game is hard to master, but the levels are gentle -- you can do it! 

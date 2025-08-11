@@ -19,15 +19,19 @@ layout: default
     {% assign should_show = false %}
 
     {%- unless page.onlytag -%}
-      {% assign should_show = true %}
+    {% assign should_show = true %}
     {%- endunless -%}
 
-    {%- if page.onlytag -%} 
+    {%- if page.onlytag -%}
     {%- for tag in page.onlytag -%}
     {%- if post.tags contains tag -%}
-      {% assign should_show = true %}
+    {% assign should_show = true %}
     {%- endif -%}
     {%- endfor -%}
+    {%- endif -%}
+
+    {%- if post.hidden -%}
+    {% assign should_show = false %}
     {%- endif -%}
 
     {%- if should_show == true -%}
