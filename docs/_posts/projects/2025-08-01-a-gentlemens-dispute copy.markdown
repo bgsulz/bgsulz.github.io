@@ -6,7 +6,6 @@ thumbnail: "/assets/heros/AGD.png"
 tags: [project, games, unity, sound]
 permalink: /gentlemen/
 startdate: "2024-01-01 00:00:00"
-enddate: "2025-08-01 00:00:00"
 ---
 
 Since 2023, I've been working with Blast Furnace games as sound designer and assistant programmer. Since early 2024, most of my work for Blast Furnace has focused on *A Gentlemen's Dispute*, an old-fashioned slapstick multiplayer party brawler.

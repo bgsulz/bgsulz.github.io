@@ -6,7 +6,6 @@ thumbnail: "/assets/heros/Overture.png"
 tags: [project, games, unity, sound, music, design]
 permalink: /overture/
 startdate: "2025-02-01 00:00:00"
-enddate: "2025-07-20 00:00:00"
 ---
 
 In 2025, I was contracted by [Overture Games](https://www.overture.games/) to design and develop educational music games for their Chicago-based education programs. Over the course of a few development sprints totaling about 2.5 months, I developed twelve educational games: eight using Unity, three using JS/TypeScript and the Kaplay framework, and one using plain JS.
