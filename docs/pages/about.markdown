@@ -10,7 +10,7 @@ I'm Ben. I make music and video games using my computer.
 ### Game Skills
 
 #### Unity / C#
-5+ years of experience; original independent games, game jams, and university projects. I used Unity for:
+Original independent games, game jams, and university projects. I used Unity for:
 - Educational platformer [Rosy Ruins]({% post_url /projects/2019-05-15-rosy %}).
 - Minimalist board game [Dropples]({% post_url /projects/2020-08-08-dropples %}).
 - Programming puzzler [12-to-6 Shift]({% post_url /projects/2020-10-05-twelve-to-six %}).
@@ -38,10 +38,10 @@ Used for personal scripting and Wesleyan University class "Machine Learning Meth
 ### Music Skills
 
 #### Piano
-Playing since age 5; deep understanding of Western music theory and experience with classical technique.
+Deep understanding of Western music theory and experience with classical technique.
 
 #### Ableton Live
-5+ years of experience; original songs, backing tracks, sound design. I used Ableton for:
+Songs, backing tracks, sound design. I used Ableton for:
 - Bouncy theme for game [Dropples]({% post_url /projects/2020-08-08-dropples %}).
 - Western pastiche for game [Ghost Town Gunner]({% post_url /projects/2021-04-05-ghost-town-gunner %}).
 - Toasty orchestra for podcast [Dear Literature]({% post_url /projects/2021-04-12-dear-literature %}).
@@ -50,7 +50,7 @@ Playing since age 5; deep understanding of Western music theory and experience w
 - and more!
 
 #### Logic Pro
-Learned 2013; original compositions. I used Logic for:
+Compositions. I used Logic for:
 - Videogamey instrumental album [_The Loop_]({% post_url /projects/2016-07-01-loop %})
 - Instrumental compilation ["!"]({% post_url /projects/2018-07-01-exclamation-mark %})
 - and more!
