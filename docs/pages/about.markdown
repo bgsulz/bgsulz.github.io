@@ -19,20 +19,21 @@ I'm Ben. I make music and video games using my computer.
 - Frenetic mini-shooter [Ghost Town Gunner]({% post_url /projects/2021-04-05-ghost-town-gunner %}).
 - Goofy boxing game [Roll with the Punches]({% post_url /projects/2022-11-10-punches %}).
 - Oddball rhythm game [Thirsty Bird]({% post_url /projects/2024-11-11-thirsty-bird %}).
+- A handful of music education games for [Overture Games]({% post_url /projects/2025-07-01-overture-games %}).
 - and more!
 
 #### Java
-Learned 2010; used extensively with Processing framework for original game prototypes since 2016, including
+Used extensively with Processing framework for original game prototypes and software since 2016, including
 - Action minigame [Pineslice](https://bgsulz.itch.io/pineslice).
 - The prototype of board game [Dropples]({% post_url /projects/2020-08-08-dropples %}).
 - Specialized wallpaper generator [Skedpapers.]({% post_url /projects/2017-01-01-skedpapers %})
 
 #### C
-Learned 2022; used with raylib framework for original game prototypes, including
+Used with raylib framework for original game prototypes, including
 - Speedy Wordle variant [Fjordle](https://bgsulz.itch.io/fjordle).
 
 #### Python
-Learned 2017; used for personal scripting and Wesleyan University class "Machine Learning Methods for Audio and Video Analysis."
+Used for personal scripting and Wesleyan University class "Machine Learning Methods for Audio and Video Analysis."
 
 ### Music Skills
 
@@ -53,7 +54,6 @@ Learned 2013; original compositions. I used Logic for:
 - Videogamey instrumental album [_The Loop_]({% post_url /projects/2016-07-01-loop %})
 - Instrumental compilation ["!"]({% post_url /projects/2018-07-01-exclamation-mark %})
 - and more!
-
 
 ### Education
 Bachelor of Arts, Music - Wesleyan University\
