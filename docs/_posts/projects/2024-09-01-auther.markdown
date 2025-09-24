@@ -53,9 +53,14 @@ See links below. The best case scenario is that this whole project turns out to 
 - [Late 2024 - DeepBrain AI's FLOAT: "... aims to synthesize talking portrait videos using a single source portrait image and driving audio."](https://deepbrainai-research.github.io/float/)
 - [Late 2024 - CAP4D: "...create realistic 4D avatars using any number of reference images. ... The avatar can be controlled ... and rendered in real time."](https://felixtaubner.github.io/cap4d/)
 - [Late 2024 - INFP: "...dynamically synthesize verbal ... interactive agent videos ... practical in instant communication ... [such as] video conferencing."](https://grisoon.github.io/INFP/)
+- [Early 2025 - AlignDiT: "generates accurate, synchronized, and natural-sounding speech from aligned multimodal inputs."](https://mm.kaist.ac.kr/projects/AlignDiT/)
+- [Early 2025 - Minimax-Speech: supports "one-shot voice cloning with exceptionally high similarity to the reference voice."](https://arxiv.org/html/2505.07916v1)
 - [Mid-2025 - Runway Act-Two: "[t]ransfers ... movement ... with realistic motion, speech, and expression."](https://help.runwayml.com/hc/en-us/articles/42311337895827-Creating-with-Act-Two)
 - [Mid-2025 - Wan-Animate: Unified Character Animation and Replacement with Holistic Replication](https://humanaigc.github.io/wan-animate/)
     - This is an open-source model with no safeguards.
+
+**1A. "Safeguards" to protect against nonconsensual voice cloning can be easily bypassed.**
+- [Early 2025 - "AI can steal your voice, and there's not much you can do about it."](https://www.nbcwashington.com/news/national-international/ai-voice-cloning-software-flimsy-guardrails-report-finds/3862697/?os=4040nue0o)
 
 **2. Bad actors are using tools like these to conduct imposter scams.**
 - [Early 2023 - "In 2022, $11 million was stolen through thousands of impostor phone scams."](https://arstechnica.com/tech-policy/2023/03/rising-scams-use-ai-to-mimic-voices-of-loved-ones-in-financial-distress/)
@@ -67,6 +72,8 @@ See links below. The best case scenario is that this whole project turns out to 
 - [Late 2024 - "Just over half (53%) of businesses in the U.S. and U.K. have been targets of a [deepfake imposter scam] with 43% falling victim ..."](https://www.cfodive.com/news/deepfake-scams-escalate-hitting-53-percent-of-businesses/725836/)
 - [Late 2024 - "UN: Southeast Asian cyber-fraud industry ‘outpacing’ law enforcement with new tools"](https://therecord.media/southeast-asian-cyber-fraud-outpaces-crackdown-efforts-united-nations)
 - [Late 2024 - "Deepfake lovers swindle victims out of $46 million in Hong Kong AI scam"](https://arstechnica.com/ai/2024/10/deepfake-lovers-swindle-victims-out-of-46m-in-hong-kong-ai-scam/)
+- [Early 2025 - "[M]y AI-cloned voice was used by the far right. ... It was chilling to hear ‘my voice’ repeating lies."](https://www.theguardian.com/commentisfree/2025/jan/07/ai-clone-voice-far-right-fake-audio)
+- [Early 2025 - "[N]early one million euros ($1.04 million) [were] wired ... by a leading businessman after ... an artificial intelligence scam ..."]("https://www.reuters.com/technology/artificial-intelligence/italian-police-freeze-cash-ai-voice-scam-that-targeted-business-leaders-2025-02-12/")
 
 **3. Though codewords are a recommended line of defense, they are fragile.**
 - [Mid-2023 - "Nicoletti suggested all family members should adopt a 'safe word' ..."](https://www.goodmorningamerica.com/living/story/cybersecurity-expert-protect-family-ai-scams-100292080)
