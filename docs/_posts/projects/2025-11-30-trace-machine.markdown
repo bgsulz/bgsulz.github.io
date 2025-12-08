@@ -22,3 +22,5 @@ startdate: "2025-11-01 00:00:00"
 - Each image has a poll to monitor human consensus. You can mark an image as human-generated, AI-edited, or AI-generated if you are reasonably confident of its origin.
     - Similar to C2PA metadata, Trace Machine sums votes from all previously analyzed images that are very visually similar (so an image and a screenshot of that image don't have two disconnected polls.)
     - *Human consensus should be almost entirely disregarded for very high-importance images -- anything for which bad actors have a strong incentive to stuff the ballot box. Research these images independently.*
+
+More features (and a browser extension enabling easy in-place analysis) to come.
