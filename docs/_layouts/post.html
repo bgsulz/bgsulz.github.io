@@ -17,7 +17,11 @@ layout: default
 
   <header class="post-header">
     {%- if page.thumbnail -%}
-    <img src="{{ page.thumbnail }}" class="thumbnail-featured" />
+    <img
+      src="{{ page.thumbnail }}"
+      class="thumbnail-featured"
+      style="view-transition-name: post-thumb-{{ page.slug | default: page.url | slugify }}"
+    />
     {%- endif -%}
     <div class="post-heading-block">
       <h1 class="post-heading post-title p-name" itemprop="name headline">

@@ -46,7 +46,11 @@ layout: default
         </a>
 
         {%- if post.thumbnail -%}
-        <img src="{{ post.thumbnail }}" class="thumbnail" />
+        <img
+          src="{{ post.thumbnail }}"
+          class="thumbnail"
+          style="view-transition-name: post-thumb-{{ post.slug | slugify }}"
+        />
         {%- else -%}
         <div class="thumbnail blank-thumbnail">
           <!-- <img src="assets/yellow.png" class="thumbnail"/>  -->
