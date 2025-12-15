@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Vote Line A - 2019-2021"
+title: "Vote Line A - 2019-2021"
 subtitle: "Digital and print identity for local politics"
 thumbnail: "/assets/heros/Vote Line A.png"
 tags: [project]
 startdate: "2019-05-01 00:00:00"
 ---
+
 For their 2019 and 2021 campaigns, the Ridgefield Democratic Town Committee hired me as graphic designer. My task was to create campaign print materials, posters, and web assets.
 
 ## 2019
@@ -15,9 +16,9 @@ My approach was to collaborate with DTC members on a brand identity, including a
 The resulting print materials are confident, eye-catching, and ever-so-slightly playful.
 
 @row
-[![Trifold Design](/assets/linea/Trifold%20Design.png)](/assets/linea/Trifold%20Design.png){:target="_blank"}
+[![Trifold Design](/assets/linea/Trifold%20Design.png)](/assets/linea/Trifold%20Design.png){:target="\_blank"}
 @column
-[![Lawn Sign Iteration](/assets/linea/Lawn%20Sign%20Iteration.png)](/assets/linea/Lawn%20Sign%20Iteration.png){:target="_blank"}
+[![Lawn Sign Iteration](/assets/linea/Lawn%20Sign%20Iteration.png)](/assets/linea/Lawn%20Sign%20Iteration.png){:target="\_blank"}
 
 @row
 When designing lawn signs, we expanded the color palette to a range of dark, cool colors. Were the signs monochromatic, a viewer might glance over a sign they hadn't seen before, thinking it already seen.
@@ -26,7 +27,7 @@ When designing lawn signs, we expanded the color palette to a range of dark, coo
 
 My 2021 refinement of Vote Line A doubled down on its tessellated elements and re-emphasized the Ridgefield DTC logo.
 
-[![Lawn Sign Update](/assets/linea/Lawn%20Sign%20Update.png)](/assets/linea/Lawn%20Sign%20Update.png){:target="_blank"}
+[![Lawn Sign Update](/assets/linea/Lawn%20Sign%20Update.png)](/assets/linea/Lawn%20Sign%20Update.png){:target="\_blank"}
 
 I replaced the Barlow typeface with a pair -- one friendly, one classy -- that accompany each other in the type hierarchy. This allowed the new print materials to feature consistently large, distance-viewable text that is still visually distinct.
 

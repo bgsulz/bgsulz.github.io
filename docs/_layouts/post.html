@@ -2,8 +2,11 @@
 layout: default
 ---
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
+<article
+  class="post h-entry"
+  itemscope
+  itemtype="http://schema.org/BlogPosting"
+>
   {%- if page.custom-bg -%}
   <style>
     body {
@@ -17,39 +20,33 @@ layout: default
     <img src="{{ page.thumbnail }}" class="thumbnail-featured" />
     {%- endif -%}
     <div class="post-heading-block">
-      <h1 class="post-heading post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+      <h1 class="post-heading post-title p-name" itemprop="name headline">
+        {{ page.title | escape }}
+      </h1>
       <h4 class="post-heading post-date" itemprop="name headline">
-        {% if page.startdate %}
-        {{ page.startdate | date: "%B %Y" }} -
-        {% endif %}
-        {{ page.date | date: "%B %Y" }}
+        {% if page.startdate %} {{ page.startdate | date: "%B %Y" }} - {% endif
+        %} {{ page.date | date: "%B %Y" }}
       </h4>
       {%- if page.subtitle -%}
-      <h3 class="post-heading post-subtitle" itemprop="name headline">{{ page.subtitle | escape }}</h3>
+      <h3 class="post-heading post-subtitle" itemprop="name headline">
+        {{ page.subtitle | escape }}
+      </h3>
       {%- endif -%}
     </div>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     <!-- {{- content -}} -->
-    {%- assign rows = content | split:"@row" -%}
-    {%- for row in rows -%}
-    {%- if row contains "-nospace" -%}
-    {%- assign row = row | replace:"-nospace", "" -%}
-    <div class="row row-nospace" id="row-{{- forloop.index -}}">
-      {%- else -%}
-      <div class="row row-space" id="row-{{- forloop.index -}}">
-        {%- endif -%}
-
-        {%- assign columns = row | split:"@column" -%}
-        {%- for column in columns -%}
-        <div class="col-sm-{{- 12 | divided_by:forloop.length -}}">
-          {{- column | replace:"-nospace", "" -}}
-        </div>
-        {%- endfor -%}
-
+    {%- assign rows = content | split:"@row" -%} {%- for row in rows -%}
+    <div class="row" id="row-{{- forloop.index -}}">
+      {%- assign columns = row | split:"@column" -%} {%- for column in columns
+      -%}
+      <div class="col-sm-{{- 12 | divided_by:forloop.length -}}">
+        {{- column -}}
       </div>
       {%- endfor -%}
     </div>
-    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+    {%- endfor -%}
+  </div>
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Rosy Ruins"
+title: "Rosy Ruins"
 subtitle: "Educational game for elementary school students"
 thumbnail: "/assets/heros/Rosy.png"
 tags: [project, games]
 ---
+
 Rosy Ruins is my final project for Prof. Christopher Weaver's class IDEA350 (Computational Media: Videogame Development) at Wesleyan University. I completed the class during the spring semester of my freshman year in 2019, and took on the role of producer, lead programmer, and supporting artist. Our team included design lead Krzys Nizielski, art director Zach Turner, code supervisor Ahmed Ali, and business manager Salil Shah.
 
 Rosie, an adventurous botanist, and friendly caterpillar Karl are stranded at the bottom of ancient underground ruins with nothing but seeds, water, and lanterns. You’ll climb vines and interact with the local fauna, for only with your tools and your wits must you escape the Rosy Ruins.
@@ -14,7 +15,7 @@ This was my first project with the Unity game engine. I wrote a 2D character con
 @row
 As supporting artist, I was in charge of generating animals, plants, and resources in the game's splotchy watercolor style. I created the vast majority of the non-player art using Affinity Designer.
 
-@row-nospace
+@row
 ![Rosy Misc Art](/assets/rosy/Rosy%20Misc.png)
 @column
 ![Rosy Fruit Stage](/assets/rosy/Rosy%20Fruit.png)

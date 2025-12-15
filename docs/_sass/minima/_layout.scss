@@ -336,13 +336,10 @@ pre {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
   grid-gap: ($spacing-unit/2);
+  margin-bottom: ($spacing-unit/2);
 
   > [class^="col-"] > :last-child {
     margin-bottom: 0;
-  }
-
-  &.row-space {
-    margin-bottom: ($spacing-unit/2);
   }
 }
 

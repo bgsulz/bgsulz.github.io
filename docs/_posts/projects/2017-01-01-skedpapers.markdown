@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Skedpapers"
+title: "Skedpapers"
 subtitle: "Generator for school schedule wallpapers"
 thumbnail: "/assets/heros/Skedpaper.png"
 tags: [project, design]
@@ -18,7 +18,7 @@ My solution was Skedpapers, an automated wallpaper-generation program built with
 @row
 A selection of Skedpapers is below.
 
-@row-nospace
+@row
 ![Flowers](/assets/skedpapers/Flowerpaper.png)
 @column
 ![Pastel](/assets/skedpapers/Pastelpaper.png)

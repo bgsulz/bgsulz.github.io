@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unity Utilities"
+title: "Unity Utilities"
 subtitle: "Convenient and powerful Editor extensions"
 thumbnail: "/assets/heros/Unity%20Utilities.png"
 tags: [project, unity]
@@ -9,15 +9,18 @@ tags: [project, unity]
 I've put out a handful of open-source Unity utilities to extend and complete the editor's functionality. These are features I really wish would come stock, so I've done my best to make them seem as native as possible.
 
 @row
+
 ## Get
 
 @row
 ![Get](/assets/unity/Get.png)
 @column
+
 <div class="pbox">
 Get is an attribute that magically fills your component references.
 
 [Download from GitHub](https://github.com/bgsulz/Get-for-Unity){: .btn}
+
 </div>
 @row
 
@@ -36,15 +39,18 @@ For ScriptableObject fields, a `+` button also appears for creating new SOs on t
 More details and functionality are described on the Get GitHub repository.
 
 @row
+
 ## Reflectors
 
 @row
 ![Reflectors](/assets/unity/Reflectors.png)
 @column
+
 <div class="pbox">
 Reflectors are a collection of utilities that use a custom API for very fast reflection.
 
 [Download from GitHub](https://github.com/bgsulz/Reflectors-for-Unity){: .btn}
+
 </div>
 @row
 
@@ -80,15 +86,18 @@ void Update()
 More examples are provided on the Reflectors GitHub repository.
 
 @row
+
 ## Either
 
 @row
 ![Either](/assets/unity/Either.png)
 @column
+
 <div class="pbox">
 Either is a serializable union-esque type for Unity. It works like popular package OneOf but with Unity-specific goodies like Inspector support.
 
 [Download from GitHub](https://github.com/bgsulz/Either-for-Unity){: .btn}
+
 </div>
 @row
 

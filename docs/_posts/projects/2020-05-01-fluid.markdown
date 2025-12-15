@@ -1,18 +1,19 @@
 ---
 layout: post
-title:  "Fluid Textures"
+title: "Fluid Textures"
 subtitle: "Wallpaper collection"
 thumbnail: "/assets/heros/Fluid.png"
 tags: [project]
 ---
+
 The below images began as splashes from various digital fluid simulations. I edited, framed, and decorated those initial textures using Affinity Designer.
 
 You are welcome to use these images for whatever you please, including as wallpapers.
 
-@row-nospace
-[![Heavens](/assets/fluid/Heavens.png)](/assets/fluid/Heavens.png){:target="_blank"}
+@row
+[![Heavens](/assets/fluid/Heavens.png)](/assets/fluid/Heavens.png){:target="\_blank"}
 @column
-[![Dark Oil](/assets/fluid/Dark%20Oil.png)](/assets/fluid/Dark%20Oil.png){:target="_blank"}
+[![Dark Oil](/assets/fluid/Dark%20Oil.png)](/assets/fluid/Dark%20Oil.png){:target="\_blank"}
 
 @row
-[![Starfield](/assets/fluid/Starfield.png)](/assets/fluid/Starfield.png){:target="_blank"}
+[![Starfield](/assets/fluid/Starfield.png)](/assets/fluid/Starfield.png){:target="\_blank"}

@@ -6,6 +6,7 @@ thumbnail: "/assets/heros/Lemonade.png"
 tags: [project, design]
 permalink: /lemonade/
 ---
+
 I was contracted to create a brand and designs for Lemons to Lemonade, a wellness board game for teachers and therapists to play with children.
 
 The game plays similarly to Candy Land or Monopoly: the player's piece moves from space to space along a path. In order to earn the privilege of rolling the die, however, the player must draw a Lemon card, which has some difficulty or struggle written on the back, and "turn it into lemonade" by finding a silver lining. For example, the card
@@ -34,6 +35,7 @@ In this style, I produced a handful of sticker-like illustrations and a vintage-
 ![Logo and Elements](<../../assets/lemonade/Lemonade Logo.png>)
 
 @row
+
 > I would have loved to draw these designs on paper and scan them! Unfortunately, I was working on a quick turnaround, so I had to make do with an all-digital design inspired by physical media.
 
 ## Promotional Materials

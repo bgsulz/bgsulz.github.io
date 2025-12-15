@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "c.a.l.e.b."
+title: "c.a.l.e.b."
 subtitle: "Character-splitting platformer; top 5% in GTMK 2021"
 thumbnail: "/assets/heros/Caleb.png"
 tags: [project, games, unity]
 ---
+
 c.a.l.e.b. (Canine Aid Locale Exploration Bot) is a submission to the 2021 GMTK Game Jam -- theme "Joined Together." It is a puzzle platformer where the player character can split in two and rejoin. I worked as primary artist and gameplay programmer on a team of three.
 
 [Play on itch.io](https://robertbuckley.itch.io/caleb){: .btn}
 
-@row-nospace
+@row
+
 <div class="pbox">
 The original concept for c.a.l.e.b. itself originated during a class at Wesleyan University -- Computational Media: Videogame Development (IDEA350.) One of my team members and I collaborated on an original character designed to communicate a unique video game mechanic. c.a.l.e.b. 1.0 grappled across metal walls and ceilings with magnetic hands, separating and rejoining to navigate difficult terrain. 
 </div>
@@ -19,6 +21,7 @@ The original concept for c.a.l.e.b. itself originated during a class at Wesleyan
 @row
 ![Moving Platforms](</assets/caleb/Caleb Moving Platforms.png>)
 @column
+
 <div class="pbox">
 With a weekend to program, I simplified the design and mechanics of c.a.l.e.b., honing in on the character's most unique attribute: the ability to control each half separately. I ended up with a roly-poly character controller with a satisfying magnetic pop and snap. Governing c.a.l.e.b.'s transformations is a ScriptableObject-based state machine that I refined and reused in the much more complex [Thirsty Bird.]({% post_url /projects/2024-11-11-thirsty-bird %})
 </div>

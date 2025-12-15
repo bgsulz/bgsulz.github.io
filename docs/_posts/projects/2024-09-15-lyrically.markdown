@@ -8,6 +8,7 @@ permalink: /lyrically/
 startdate: "2024-08-01 00:00:00"
 hidden: true
 ---
+
 Lyrically is a daily guesser game: guess a song from lyric fragments. It has daily puzzles and an archive where you can play all past puzzles.
 
 [Play now](https://lyrically.fun/){: .btn}
@@ -20,6 +21,6 @@ Like [Auther,]({% post_url /projects/2024-09-01-auther %}) the frontend of Lyric
 
 The backend of Lyrically is unconventional. It's worth noting that I'm working on Lyrically with my father, a veritable human encyclopedia of lyrics knowledge. We collaborated on the design of the game, and we're working together on the daily puzzles as well.
 
-My goal was to make it ***as easy as possible*** for my dad and me to update the game with new puzzles. The solution: Lyrically puzzles are stored in... a Google Sheet. I set up a Google Apps Script that updates a Firestore database with all new information from the Google Sheet at the click of a button.
+My goal was to make it **_as easy as possible_** for my dad and me to update the game with new puzzles. The solution: Lyrically puzzles are stored in... a Google Sheet. I set up a Google Apps Script that updates a Firestore database with all new information from the Google Sheet at the click of a button.
 
 For the convenience of having a single "dashboard" for managing Lyrically, the site is also hosted via Firebase. The result: collaborators can operate within the familiar interface of a spreadsheet, so managing and appending to the game's data is trivially easy. I intend to reuse this exact paradigm in future daily guesser projects.

@@ -7,9 +7,11 @@ tags: [project, music]
 permalink: /gardsky/
 startdate: "2023-06-23 00:00:00"
 ---
+
 Josh Gardos and I are Gardsky, a musical duo.
 
 @row
+
 <iframe style="border-radius:2px" src="https://open.spotify.com/embed/album/4XowR3euUxZEbYCtFH81lw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 @column
 <p class="pbox">Josh is one of my very oldest friends (since age 3) and a terrific bassist. We got together a couple dozen times over the course of a year and ended up with an album.</p>
@@ -29,37 +31,38 @@ Viola Quinn (track 4: lyrics & vocals)
 Ben Sulzinsky
 
 **Mastering**  
-Josh Gardos  
+Josh Gardos
 
 **Special Thanks**  
 Our wonderful families!
 
 @column
+
 1. _Mental Game_ (6:14)  
-Bass: Josh Gardos  
-Piano & Synth: Ben Sulzinsky  
+   Bass: Josh Gardos  
+   Piano & Synth: Ben Sulzinsky
 
 2. _Boiled Ocean_ (4:24)  
-Bass & Guitar: Josh Gardos  
-Piano & Synth: Ben Sulzinsky  
+   Bass & Guitar: Josh Gardos  
+   Piano & Synth: Ben Sulzinsky
 
 3. _Belly Button_ (5:55)  
-Bass: Josh Gardos  
-Piano & Synth: Ben Sulzinsky  
+   Bass: Josh Gardos  
+   Piano & Synth: Ben Sulzinsky
 
 4. _Paper House (feat. Viola Quinn)_ (7:02)  
-Vocals: Viola Quinn  
-Bass: Josh Gardos  
-Piano: Ben Sulzinsky  
+   Vocals: Viola Quinn  
+   Bass: Josh Gardos  
+   Piano: Ben Sulzinsky
 
 5. _The Last Strawberry_ (4:07)  
-Bass: Josh Gardos  
-Piano & Synth: Ben Sulzinsky  
+   Bass: Josh Gardos  
+   Piano & Synth: Ben Sulzinsky
 
 6. _Lawn Mower_ (8:19)  
-Bass & Guitar: Josh Gardos  
-Piano & Synth: Ben Sulzinsky  
+   Bass & Guitar: Josh Gardos  
+   Piano & Synth: Ben Sulzinsky
 
 7. _Nominal Experience_ (6:23)  
-Bass & Guitar: Josh Gardos  
-Piano & Synth: Ben Sulzinsky  
+   Bass & Guitar: Josh Gardos  
+   Piano & Synth: Ben Sulzinsky
