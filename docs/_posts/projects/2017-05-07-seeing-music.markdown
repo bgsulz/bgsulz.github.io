@@ -13,12 +13,19 @@ The collection visually represents the anatomy of music equipment, the acts of m
 I split my Concentration into thirds, exploring three spheres of music: the instruments and technology behind music, creating and listening to music, and the industry surrounding the music. I still sought variety within each sphere, from piracy to spectrograms, earbuds to piano keys.
 
 @row
+
 [![The Discovery Room](/assets/apart/AP%20Room.png)](/assets/apart/AP%20Room.png){:target="\_blank"}
+
 @column
+
 [![Spectrogram](/assets/apart/AP%20Spectro.png)](/assets/apart/AP%20Spectro.png){:target="\_blank"}
+
 @row
+
 [![New Again](/assets/apart/AP%20Vinyl.png)](/assets/apart/AP%20Vinyl.png){:target="\_blank"}
+
 @column
+
 [![Favorite Band](/assets/apart/AP%20Band.png)](/assets/apart/AP%20Band.png){:target="\_blank"}
 
 @row

@@ -14,6 +14,9 @@ In 2015, I was hired to create the very first website for the Ridgefield Democra
 The style of the website puts calls to action front and center, with large, engaging photographs, an accessible event calendar, and an eye-catching donation button.
 
 @row
+
 [![Calendar](/assets/demsite/Calendar.png)](/assets/demsite/Calendar.png){:target="\_blank"}
+
 @column
+
 [![Officials Page](/assets/demsite/Officials.png)](/assets/demsite/Officials.png){:target="\_blank"}

@@ -153,24 +153,30 @@ a:not(.btn) {
 }
 
 p:has(.btn) {
-  transition: $transition-time;
-  margin: 30px 0;
-}
-
-p:has(.btn:hover) {
-  transform: translateY(-15%);
+  &:has(> .btn) {
+    margin-bottom: $spacing-unit / 2;
+  }
 }
 
 .btn {
   text-decoration: none;
   font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  max-width: 100%;
+  box-sizing: border-box;
+  line-height: 1.1;
   border: $border-width solid $brand-color;
   background-color: $background-color-light;
   color: $brand-color;
   padding: 15px;
   transition: $transition-time;
+  will-change: transform;
 
   &:hover {
+    transform: translateY(-15%);
     box-shadow: 0 10px 35px transparentize($text-color, 0.7);
     background-color: $brand-color;
     color: $background-color;

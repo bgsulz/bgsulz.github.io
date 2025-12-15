@@ -13,17 +13,25 @@ It was _so challenging_ to memorize this schedule that many students took a scre
 My solution was Skedpapers, an automated wallpaper-generation program built with Processing 3. My classmates picked the color, shape, and label of each of their classes, and the program generated a beautiful and legible schedule atop the background image of their choice.
 
 @row
+
 ![Space](/assets/skedpapers/Spacepaper Closeup.png)
 
 @row
+
 A selection of Skedpapers is below.
 
 @row
+
 ![Flowers](/assets/skedpapers/Flowerpaper.png)
+
 @column
+
 ![Pastel](/assets/skedpapers/Pastelpaper.png)
 
 @row
+
 ![Space](/assets/skedpapers/Spacepaper.png)
+
 @column
+
 ![Sunset](/assets/skedpapers/Sunsetpaper.png)

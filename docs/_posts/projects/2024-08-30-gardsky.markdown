@@ -17,11 +17,13 @@ Josh Gardos and I are Gardsky, a musical duo.
 <p class="pbox">Josh is one of my very oldest friends (since age 3) and a terrific bassist. We got together a couple dozen times over the course of a year and ended up with an album.</p>
 
 @row
+
 You can buy or stream this album just about anywhere you listen to music.
 
 ## Credits:
 
 @row
+
 **Writing, Performance, and Production**  
 Josh Gardos  
 Ben Sulzinsky  

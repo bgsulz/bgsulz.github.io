@@ -37,10 +37,25 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     <!-- {{- content -}} -->
-    {%- assign rows = content | split:"@row" -%} {%- for row in rows -%}
-    <div class="row" id="row-{{- forloop.index -}}">
-      {%- assign columns = row | split:"@column" -%} {%- for column in columns
-      -%}
+    {%- assign grid_content = content
+      | replace: '<p>@row</p>', '@row'
+      | replace: '<p>@row</p>\n', '@row'
+      | replace: '<p>@row</p>\r\n', '@row'
+      | replace: '<p>@column</p>', '@column'
+      | replace: '<p>@column</p>\n', '@column'
+      | replace: '<p>@column</p>\r\n', '@column'
+    -%}
+
+    {%- assign rows = grid_content | split:"@row" -%}
+    {%- for row in rows -%}
+    {%- assign row_class = "row" -%}
+    {%- if row contains "-nospace" -%}
+    {%- assign row = row | replace:"-nospace", "" -%}
+    {%- assign row_class = "row row-nospace" -%}
+    {%- endif -%}
+    <div class="{{- row_class -}}" id="row-{{- forloop.index -}}">
+      {%- assign columns = row | split:"@column" -%}
+      {%- for column in columns -%}
       <div class="col-sm-{{- 12 | divided_by:forloop.length -}}">
         {{- column -}}
       </div>
