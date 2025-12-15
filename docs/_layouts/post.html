@@ -8,7 +8,7 @@ layout: default
   <style>
     body {
       background: {{ page.custom-bg }};
-    };
+    }
   </style>
   {%- endif -%}
 
@@ -44,7 +44,7 @@ layout: default
         {%- assign columns = row | split:"@column" -%}
         {%- for column in columns -%}
         <div class="col-sm-{{- 12 | divided_by:forloop.length -}}">
-          <p>{{- column | replace:"-nospace", "" -}}</p>
+          {{- column | replace:"-nospace", "" -}}
         </div>
         {%- endfor -%}
 

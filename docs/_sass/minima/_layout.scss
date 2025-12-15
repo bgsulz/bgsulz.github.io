@@ -305,7 +305,8 @@
 
 .post-heading-block {
   //background: $background-color-dark;
-  padding: ($spacing-unit * 0.875) ($spacing-unit * 0.875) ($spacing-unit * 0.725) ($spacing-unit * 0.875);
+  padding: ($spacing-unit * 0.875) ($spacing-unit * 0.875)
+    ($spacing-unit * 0.725) ($spacing-unit * 0.875);
   border: $border-width solid $background-color-light;
   border-top-width: 0;
   border-radius: 0 0 $corner-radius $corner-radius;
@@ -335,6 +336,10 @@ pre {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
   grid-gap: ($spacing-unit/2);
+
+  > [class^="col-"] > :last-child {
+    margin-bottom: 0;
+  }
 
   &.row-space {
     margin-bottom: ($spacing-unit/2);

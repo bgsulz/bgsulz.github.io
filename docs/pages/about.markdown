@@ -67,8 +67,8 @@ This is a Jekyll website using a highly personalized theme. You can find the sou
 
 ### About the content
 
-- I wrote every letter of text on this website without the assistance of LLMs (large language models; that is, auto-regressive transformer models that generate language. For example: OpenAI's ChatGPT, Google's Gemini, Meta's Llama.) 
-- I created every pixel of every image on this website without assistance of GANs (generative adversarial networks,) diffusion models (commonly called image generation models; for example, Midjourney's proprietary model, Black Forest Labs's F.LUX, OpenAI's DALL-E,) or multimodal transformer models (for example: OmniGen's model, OpenAI's GPT-4o.) 
+- I wrote every letter of text on this website without the assistance of LLMs (large language models; that is, auto-regressive transformer models that generate language. For example: OpenAI's GPT series, Google's Gemini, Anthropic's Claude.) 
+- I created every pixel of every image on this website without assistance of GANs (generative adversarial networks,) diffusion models (commonly called image generation models; for example, Midjourney's proprietary model, Black Forest Labs's F.LUX, OpenAI's DALL-E,) or multimodal transformer models (for example: Google's Nano Banana, OpenAI's GPT-4o image model.) 
 - I created every second of sound and music on this website without the assistance of music generation models (that is, diffusion transformers trained on music and audio. For example: ElevenLabs's text-to-sound model, Suno's music model, Udio's music model.)
 - I have utilized LLMs with coding-specialized LLM scaffolds (GitHub Copilot, Aider, Roo Code) to generate code for some of the programming projects on this website; however, I minimize my employment of these systems, as I prefer to retain control and understanding of my codebases. When I use one, I do so for one of two reasons:
     1. to fulfill contractual obligations. Some of my game development contracts have explicitly encouraged liberal use of LLM-generated code for the purposes of rapid prototyping, and have imposed deadlines so quick as to effectively necessitate it. 

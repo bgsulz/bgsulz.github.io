@@ -3,7 +3,8 @@ main {
 }
 
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height}
+    $base-font-family;
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
@@ -58,7 +59,12 @@ figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin-top: $spacing-unit;
 }
 // TODO: Vertical spacing is weird because row adds 15px below itself. How to fix?
