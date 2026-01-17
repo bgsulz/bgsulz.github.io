@@ -3,7 +3,7 @@ layout: post
 title: "Trace Machine"
 subtitle: "Image provenance toolkit and correlation engine"
 thumbnail: "/assets/heros/Trace Machine.png"
-tags: [project, design]
+tags: [project, design, programming]
 permalink: /tracemachine/
 startdate: "2025-11-01 00:00:00"
 ---

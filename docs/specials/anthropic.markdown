@@ -1,7 +1,7 @@
 ---
 layout: home
 hidden: true
-onlytag: [game, design]
+onlytag: [programming]
 permalink: /anthropic/
 ---
 

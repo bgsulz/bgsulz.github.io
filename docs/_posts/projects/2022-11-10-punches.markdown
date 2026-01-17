@@ -3,7 +3,7 @@ layout: post
 title: "Roll with the Punches"
 subtitle: "Dice-rolling boxing brawler; top 8% in GTMK 2022"
 thumbnail: "/assets/heros/Punches.png"
-tags: [project, games]
+tags: [project, games, programming]
 ---
 
 For the 2022 GMTK Game Jam -- theme "Roll of the Dice" -- our team created Roll with the Punches, a two-part game where you strategically assemble a training regimen from dice rolls and then test your skills in a high-stakes prizefight. I handled all art and some programming on a team of two developers and one musician.

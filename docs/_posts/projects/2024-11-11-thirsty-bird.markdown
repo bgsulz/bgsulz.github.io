@@ -3,7 +3,7 @@ layout: post
 title: "Thirsty Bird"
 subtitle: "Tricky, offbeat rhythm game"
 thumbnail: "/assets/heros/Bird.png"
-tags: [project, games, unity, music]
+tags: [project, games, unity, music, programming]
 permalink: /bird/
 startdate: "2021-04-27 00:00:00"
 ---

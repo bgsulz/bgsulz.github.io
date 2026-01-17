@@ -3,7 +3,7 @@ layout: post
 title: "Phrazy"
 subtitle: "Crossword-like daily puzzle game"
 thumbnail: "/assets/heros/Phrazy.png"
-tags: [project, design, games]
+tags: [project, design, games, programming]
 permalink: /phrazy/
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Overture Games"
 subtitle: "Rapid game development for music education gaming startup"
 thumbnail: "/assets/heros/Overture.png"
-tags: [project, games, unity, sound, music, design]
+tags: [project, games, unity, sound, music, design, programming]
 permalink: /overture/
 startdate: "2025-02-01 00:00:00"
 ---

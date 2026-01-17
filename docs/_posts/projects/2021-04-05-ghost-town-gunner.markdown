@@ -3,7 +3,7 @@ layout: post
 title: "Ghost Town Gunner"
 subtitle: "Western top-down shooter; HM in College Game Jam"
 thumbnail: "/assets/heros/Gunner.png"
-tags: [project, games, music]
+tags: [project, games, music, programming]
 ---
 
 I was lead programmer for Ghost Town Gunner, made in a team of six for the College Game Jam -- optional theme "Connection." It's a mouse-only top-down shooter where the gunslinger and bullet are connected. The only way to move is to shoot and teleport to your bullet.
