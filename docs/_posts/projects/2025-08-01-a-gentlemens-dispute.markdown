@@ -10,9 +10,11 @@ startdate: "2024-01-01 00:00:00"
 
 From 2023 to 2025, I worked with Blast Furnace games as sound designer and assistant programmer. Since early 2024, most of my work for Blast Furnace was focused on _A Gentlemen's Dispute_, an old-fashioned slapstick multiplayer party brawler.
 
-## You can play the demo on Steam for free right now!
+The game shipped on Steam in September 2025, and currently maintains an "Overwhelmingly Positive" review score from Steam users.
 
-[A Gentlemen's Dispute Demo on Steam](https://store.steampowered.com/app/3106770/A_Gentlemens_Dispute_Demo/?curator_clanid=45112300){: .btn}
+## You can play _A Gentlemen's Dispute_ on Steam!
+
+[A Gentlemen's Dispute on Steam](https://store.steampowered.com/app/2820700/A_Gentlemens_Dispute/){: .btn}
 
 @row
 
