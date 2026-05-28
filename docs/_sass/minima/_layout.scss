@@ -202,13 +202,14 @@
   display: block;
   margin-bottom: 0;
   text-align: center;
-  margin: 0 0;
+  margin: 0 $spacing-unit;
   color: $text-color;
   text-decoration: none !important;
 }
 
 h3.post-link {
   @include relative-font-size(1.5);
+  line-height: 2rem;
 }
 
 h5.post-link {
