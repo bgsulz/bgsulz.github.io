@@ -43,6 +43,9 @@ layout: default
           <h3 class="post-link">
             {{ post.title | escape }}
           </h3>
+          <h5 class="post-link">
+            {{ post.date | date: "%Y" | escape }}
+          </h5>
         </a>
 
         {%- if post.thumbnail -%}
